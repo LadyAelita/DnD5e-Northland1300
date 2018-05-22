@@ -1,2 +1,2 @@
 1st level:
-Absorb Elements - Absorb up to 4d6 (+1d6/SL) elemental damage dealt to you from a single effect. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals the *absorbed* damage (NOT the roll result, but the lowest number between the roll result and dealt damage).
+Absorb Elements - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type (NOT the roll result, but the lowest number between the roll result and dealt damage).
