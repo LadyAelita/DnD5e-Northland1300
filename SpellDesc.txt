@@ -15,3 +15,4 @@ Charm Person - they don't know about having been charmed, unless they succeed on
 Comprehend Languages - fuck that shit! It's still level 1, BUT now if you want to achieve the actual previous effect, you have to cast it at level 9 - the lower the spell slot level, the more Google Translator cycles will the message go through to make it more unclear. It will also only last 10 minutes and require concentration now.
 Create or Destroy water - the school is Conjuration (Creation) for create and Transmutation for destroy
 Cure Wounds - you can try to melee touch attack an undead, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities.
+Detect Evil and Good - changed to Detect Evil *or* Good. Look Updated-Rules.pdf.
