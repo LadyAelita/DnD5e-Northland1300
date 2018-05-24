@@ -1,2 +1,17 @@
 1st level:
-Absorb Elements - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type (NOT the roll result, but the lowest number between the roll result and dealt damage).
+Absorb Elements - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type.
+Armor of Agathys - renamed to Armor of the Abyss
+Arms of Hadar - renamed to Arms of Legion
+Bane - subtract d6 now instead of d4
+Burning Hands - cones suck, so instead of looking for tiles that have more than 50% of themselves covered by the cone, let's assume that the cover percentage being higher than 0% is enough for the tile to be affected
+Cause Fear - no more concentration
+Ceremony:
+	- Bless Water: Holy water blessed by a cleric of a given deity can be used by any of the said deity's followers to attempt and bless something or someone in a minute long ritual. A cleric will automatically succeed, providing the target with the effect of the Bless spell for a day. A non-cleric will have a 50% + 5*(Wisdom modifier)% chance without knowing the result up until the bonus would come into play. In case an item is targeted, it might receive a random small permanent enchantment. The effects of this don't stack.
+	- Curse Water [NEW]: One can also conjure unholy water in a similar manner. Instead of applying Bless, it will apply Bane, and instead of creating helpful enchanted items, it will create cursed ones.
+	- Coming of Age: Can only be cast on the day of the target's actual coming of age (the age is determined by the cleric's religion, and if it's not, then it's up to the local tradition). Instead of giving the d4 bonus, it increases all of the target's abilities by 1 permanently.
+	- Dedication: The target also gains proficiency in Religion, provided that you have it already as well.
+	- Wedding: They don't get +2 to AC for the next 7 days, but they get +1 to AC permanently instead (the condition remains the same). This bonus is removed when the marriage ends by whatever means.
+Charm Person - they don't know about having been charmed, unless they succeed on a second Wisdom save at the end of the effect.
+Comprehend Languages - fuck that shit! It's still level 1, BUT now if you want to achieve the actual previous effect, you have to cast it at level 9 - the lower the spell slot level, the more Google Translator cycles will the message go through to make it more unclear. It will also only last 10 minutes and require concentration now.
+Create or Destroy water - the school is Conjuration (Creation) for create and Transmutation for destroy
+Cure Wounds - you can try to melee touch attack an undead, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities.
