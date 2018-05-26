@@ -16,3 +16,6 @@ Comprehend Languages - fuck that shit! It's still level 1, BUT now if you want t
 Create or Destroy water - the school is Conjuration (Creation) for create and Transmutation for destroy
 Cure Wounds - you can try to melee touch attack an undead, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities.
 Detect Evil and Good - changed to Detect Evil *or* Good. Look Updated-Rules.pdf.
+Ensnaring Strike - no more concentration
+Entangle - area increased to 30 ft; now applies to all visible creatures of choice in the area
+Expeditious Retreat - now allows to either do a Dash *or a Disengage* as a bonus action
