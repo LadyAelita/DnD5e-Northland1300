@@ -15,7 +15,9 @@ Charm Person - they don't know about having been charmed, unless they succeed on
 Comprehend Languages - fuck that shit! It's still level 1, BUT now if you want to achieve the actual previous effect, you have to cast it at level 9 - the lower the spell slot level, the more Google Translator cycles will the message go through to make it more unclear. It will also only last 10 minutes and require concentration now.
 Create or Destroy water - the school is Conjuration (Creation) for create and Transmutation for destroy
 Cure Wounds - you can try to melee touch attack an undead, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities.
-Detect Evil and Good - changed to Detect Evil *or* Good. Look Updated-Rules.pdf.
+Detect Evil and Good - changed to Detect Evil *or* Good. Look Updated-Rules.pdf. It's also a ritual now
 Ensnaring Strike - no more concentration
 Entangle - area increased to 30 ft; now applies to all visible creatures of choice in the area
 Expeditious Retreat - now allows to either do a Dash *or a Disengage* as a bonus action
+False Life - the base is now 2d6 + your spellcasting mod, rather than 1d6 + 4, but it only lasts a minute now
+Find Familiar - now it will allow for a broader selection of familiars - including elementals, demons etc. (albeit all of them will still be shite and have 0 CR. I mean, c'mon, what did you expect?). A final list of eligible creatures doesn't exist. A short one with some examples will be provided, but your character can still possibly gain knowledge of other creatures not mentioned on said list. Moreover, you can no longer dismiss your familiar to a "pocket plane". You can however dismiss them back to their original plane, but then you have to resummon them.
