@@ -21,6 +21,7 @@ Entangle - area increased to 30 ft; now applies to all visible creatures of choi
 Expeditious Retreat - now allows to either do a Dash *or a Disengage* as a bonus action
 False Life - the base is now 2d6 + your spellcasting mod, rather than 1d6 + 4, but it only lasts a minute now
 Find Familiar - now it will allow for a broader selection of familiars - including elementals, demons etc. (albeit all of them will still be shite and have 0 CR. I mean, c'mon, what did you expect?). A final list of eligible creatures doesn't exist. A short one with some examples will be provided, but your character can still possibly gain knowledge of other creatures not mentioned on said list. Moreover, you can no longer dismiss your familiar to a "pocket plane". You can however dismiss them back to their original plane, but then you have to resummon them.
+Flow of Magic - has scaling; the target creature receives a temporary spell slot of one level higher than the level this spell was cast at; the slot can be used within 1 round and then it disappears
 Fog Cloud - no more concentration
 Healing Word - you might now target undead as well. They don't get no saves if you do so
 Jump - added scaling: you can target an additional creature for every SL above 1st; also increased the range to 60 ft
