@@ -38,3 +38,8 @@ Thunderwave: is now a radius rather than a cube
 Witch Bolt: now is one of the Touch AC spells; the scaling now increases not just the initial, but the reocurring damage as well
 Wrathful Smite: merged with attack, concentration optional; added scaling: +1d6 dmg/SL above 1st
 Zephyr Strike: if the enhanced attack + faster movement bonus is utilized immediatly, the spell doesn't require concentration but also doesn't last longer than 1 round
+
+2nd level:
+Aganazzar's Scorcher: renamed to "Blazing Burst"
+Alter Self: no more concentration
+Branding Smite: merged with attack, optional concentration
