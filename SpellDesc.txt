@@ -22,6 +22,7 @@ Expeditious Retreat - now allows to either do a Dash *or a Disengage* as a bonus
 False Life - the base is now 2d6 + your spellcasting mod, rather than 1d6 + 4, but it only lasts a minute now
 Find Familiar - now it will allow for a broader selection of familiars - including elementals, demons etc. (albeit all of them will still be shite and have 0 CR. I mean, c'mon, what did you expect?). A final list of eligible creatures doesn't exist. A short one with some examples will be provided, but your character can still possibly gain knowledge of other creatures not mentioned on said list. Moreover, you can no longer dismiss your familiar to a "pocket plane". You can however dismiss them back to their original plane, but then you have to resummon them.
 Fog Cloud - no more concentration
+Healing Word - you might now target undead as well. They don't get no saves if you do so
 Jump - added scaling: you can target an additional creature for every SL above 1st; also increased the range to 60 ft
 Protection from Evil and Good: Welcome to the 5th edition of D||D (Dungeons or Dragons) once again! Renamed to Protection from Evil *or* Good; see Updated-Rules.pdf; Also, added scaling: can target +1 crea/SL above 1st.
 Ray of Sickness: no longer allows for a save. If you hit, you hit the entire effect. It's also one of those Touch AC spells now and is Xd10 instead of Xd8, so it doesn't suck anymore
