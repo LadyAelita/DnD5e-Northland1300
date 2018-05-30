@@ -1,3 +1,43 @@
+Note: What counts as "elemental" damage?
+
+ * Elemental *	| * Non elemental *
+-------------------------------------
+ fire		| slashing
+ cold		| piercing
+ acid		| bludgeoning
+ radiant	| poison
+ lightning	| psychic
+ sonic		| necrotic
+ shadow		| force
+ ethereal	| fall
+
+Note: Fall damage is a seperate type of damage now.
+
+Note: Impact velocity with respect to the fall damage roll:
+Roll	| V_i
+-------------------
+0	| 25- ft/s
+1d6	| 30 ft/s
+2d6	| 40 ft/s
+3d6	| 45 ft/s
+4d6	| 50 ft/s
+5d6	| 60 ft/s
+6d6	| 65 ft/s
+7d6	| 70 ft/s
+8d6	| 75 ft/s
+9d6	| 77 ft/s
+10d6	| 82 ft/s
+11d6	| 85 ft/s
+12d6	| 89 ft/s
+13d6	| 93 ft/s
+14d6	| 96 ft/s
+15d6	| 100 ft/s
+16d6	| 102 ft/s
+17d6	| 105 ft/s
+18d6	| 109 ft/s
+19d6	| 110 ft/s
+20d6	| 113 ft/s
+
 1st level:
 Absorb Elements - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type.
 Armor of Agathys - renamed to Armor of the Abyss
@@ -43,3 +83,9 @@ Zephyr Strike: if the enhanced attack + faster movement bonus is utilized immedi
 Aganazzar's Scorcher: renamed to "Blazing Burst"
 Alter Self: no more concentration
 Branding Smite: merged with attack, optional concentration
+Calm Emotions: now also provides the targets with advantage on Composure checks
+Cloud of Daggers: the cloud can now also make an unlimited number of opportunity attacks per turn, using your spell attack bonus against the target's normal AC. It has a reach of 5 ft. Moreover, you can use your bonus action to move the cloud by 15 ft.
+Darkness: the caster can see normally through the darkness they have created with this spell; if the overlapping light spell is of level equal to Darkness, both are dispelled; if it's smaller than Darkness, then only that spell is dispelled, not Darkness; added scaling: radius +10 ft/SL above 2nd
+Dragon's Breath: now if you target yourself, you can optionally not concentrate, but then you have to use the effect in the same round the spell was cast
+Dust Devil: the space doesn't have to be unoccupied now. The creature that's standing on the point of origin is pushed 15 ft in a random direction on failed save, or into an unocuppied space of their choice within 5 ft of the origin on a successful one
+Earthbind: rather than fallng slowly, the creature rapidly descends at a constant velocity of 50 ft per second, which is 300 ft per round. Given how the range is 300 ft, it will always reach the ground below it by the end of the round (unless some metamagic is utilized). As a result, it takes 4d6 fall damage on impact. The damage has a scaling of +2d6/SL above 2nd, except 8th level gets 17d6, and 9th gets 20d6. The concentraion on this spell is optional. If your target still hasn't reached the ground, the concentration will cause it to keep falling. If it's on the ground as a result of the fall, the concentration will cause it to become and remain slowed and grounded [NEW CONDITIONS]. If the ground level below the target is very low and it would out of your sight by the end of the round, you either cannot begin the concentration, or your concentration is broken.
