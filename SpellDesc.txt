@@ -90,6 +90,7 @@ Digital Phantom: you can alter the personal data assigned to data streams sent/r
 	- contact somebody who doesn't know your voice through a TSR device and deceive it (basically a phone call, except they will think it's from somebody else),
 	- attempt (yes, this might fail) to send a command to an intelligent construct (so, a robot) so that its system "thinks" it's from its owner,
 	- when connecting to a communication network through any device, you can edit the trace data your device leaves behind, effectively becoming anonymous.
+Also, added scaling: the duration increases 2,5 times / SL above 2nd. (So the formula is (2,5)^x min, where x = SL - 2).
 Dragon's Breath: now if you target yourself, you can optionally not concentrate, but then you have to use the effect in the same round the spell was cast
 Dust Devil: the space doesn't have to be unoccupied now. The creature that's standing on the point of origin is pushed 15 ft in a random direction on failed save, or into an unocuppied space of their choice within 5 ft of the origin on a successful one
 Earthbind: rather than fallng slowly, the creature rapidly descends at a constant velocity of 50 ft per second, which is 300 ft per round. Given how the range is 300 ft, it will always reach the ground below it by the end of the round (unless some metamagic is utilized). As a result, it takes 4d6 fall damage on impact. The damage has a scaling of +2d6/SL above 2nd, except 8th level gets 17d6, and 9th gets 20d6. The concentraion on this spell is optional. If your target still hasn't reached the ground, the concentration will cause it to keep falling. If it's on the ground as a result of the fall, the concentration will cause it to become and remain slowed and grounded [NEW CONDITIONS]. If the ground level below the target is very low and it would out of your sight by the end of the round, you either cannot begin the concentration, or your concentration is broken.
@@ -113,3 +114,14 @@ Shatter: non-organic creatures also take damage in d12s instead of d8s
 Snilloc's Snowball Swarm: re-themed as "Cold Nova"; now also slows [N.C.] the creatures that failed the save for 1 round and puts out non-magical flames and flames created by fire spells cast at a lower level.
 Spider Climb: added scaling: +1 target crea/SL above 2nd.
 Spiritual Weapon: the speed increased to 30 ft
+
+3rd level:
+Beacon of Hope: also gives advantage on Charisma saves
+Bestow Curse: no more concentration; additional curse variant:
+	- the target loses 2d4 Intelligence, Wisdom or Charisma (your choice).
+Blinding Smite: merged with attack, optional concentration. Clarification: you decide whether to concentrate or not *before* knowing the result of the save.
+Clairvoyance: minor: you concentrate on the cosmic opal that serves as the material component - you use it as a "screen" or a "speaker" of sorts
+Conjure Animals: renamed to "Summon Animals"
+Conjure Barrage: renamed to "Direct Barrage"; now requires you to physically use/throw/shoot X pieces of ammunition or throwing weapon (therefore you need said weapon equipped). The ammunition or weapon doesn't have to be non-magical anymore. As a result, you can pick X targets within the 60ft cone. Each of them will receive 4dY damage of the same type as the weapon's damage, where Y is the weapon's damage die. For example - shooting 3 normal arrows from a longbow will deal 4d8 damage to 3 targets in the spell's area. Basically this spell allows your character to execute an attack that's normally difficult to pull off, let alone within 3-6 seconds, by using magic to direct the projectiles.
+Counterspell: finalized: Autosuccess vs spells of level equal or lower to counterspell's SL. Against spells of SL higher than the counter SL, let X = the difference between the spell SL and the counter SL, and Y = the target spell's caster's spellcasting modifier. Then you need to succeed on a spellcasting ability check against the DC of 8 + X + Y.
+Dispel Magic: see Updated-Rules.pdf, except the DC is 8 + X + Y + 1 for every creature or object holding an effect that's not in the center of the area (X and Y just like with Counterspell)
