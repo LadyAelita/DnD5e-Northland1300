@@ -148,3 +148,21 @@ Hunger of Hadar: renamed to "Legion's Hunger"; you essentially cast Darkness at 
 Leomund's Tiny Hut: renamed to "Cain's Refuge"
 Life Transference: can now be used to hurt undead, although they get a Charisma saving throw against that, which halves the damage on success
 Lightning Arrow: now functions simply as a "fireball", just smaller and lightning themed. And involves a ranged attack action. Now has no concentration, so 1 shot = 1 spell slot, and it deals less damage, but has a slightly bigger radius and the targets that fail the save are dazed for 1 r
+Magic Circle: the component is consumed and depends on the targeted race:
+	- celestials: blood of a humanoid killed within 24 hours, or [(100gp) garnet, black ore or doomstone dust]
+	- elementals: (100gp) peridot dust
+	- fey: (100gp) aventurine or diaspore dust
+	- fiends (demons): holy water or (50gp) beryl dust
+	- undead: holy water or (50gp) moonstone dust
+Major Image: no more concentration; changed scaling: double the duration / SL above 3rd (so the formula is: 10min * 2^(SL-3) )
+Mass Healing Word: removed
+Melf's Minute Meteors: renamed to "Minute Meteors", damage die changed to Xd8
+Phantom Steed: added scaling: +1h duration / SL above 3rd
+Protection from Energy: only lasts 10 min, but doesn't require concentration now; now allows to choose any elemental energy; added scaling: +1 target crea / SL above 3rd
+Slow: the condition applied to the creatures is now known as "slowed"
+Speak with Dead: renamed to "Speak with the Dead"; now requires concentration
+Spirit Guardians: the damage type is based on the deity; can also be ethereal now
+Summon Lesser Demons: you get to choose where to summon the demons from (Hell, Abyss, Void - infernal demons are by default hostile to everything, and void demons are by default neutral towards everything). You might now make an Intimidation check against the infernal demons, or a Persuasion check against the void demons. On a success, the infernal demons will be hostile only against everyone but you and creatures of your choice, and the void demons will be neutral only towards everyone but creatures of your choice.
+Thunder Step: you get to choose whether you want the damage to be dealt around your previous location or around the target point
+Tidal Wave: fire elementals receive additional 4d8 cold damage
+Tongues: removed
