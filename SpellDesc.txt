@@ -125,3 +125,26 @@ Conjure Animals: renamed to "Summon Animals"
 Conjure Barrage: renamed to "Direct Barrage"; now requires you to physically use/throw/shoot X pieces of ammunition or throwing weapon (therefore you need said weapon equipped). The ammunition or weapon doesn't have to be non-magical anymore. As a result, you can pick X targets within the 60ft cone. Each of them will receive 4dY damage of the same type as the weapon's damage, where Y is the weapon's damage die. For example - shooting 3 normal arrows from a longbow will deal 4d8 damage to 3 targets in the spell's area. Basically this spell allows your character to execute an attack that's normally difficult to pull off, let alone within 3-6 seconds, by using magic to direct the projectiles.
 Counterspell: finalized: Autosuccess vs spells of level equal or lower to counterspell's SL. Against spells of SL higher than the counter SL, let X = the difference between the spell SL and the counter SL, and Y = the target spell's caster's spellcasting modifier. Then you need to succeed on a spellcasting ability check against the DC of 8 + X + Y.
 Dispel Magic: see Updated-Rules.pdf, except the DC is 8 + X + Y + 1 for every creature or object holding an effect that's not in the center of the area (X and Y just like with Counterspell)
+Elemental Weapon: now Wizards (and Sorcerers) can have it as well; no more concentration; can be used to enchant a weapon permanently, in which case it consumes a 150gp gem representing the element related to the selected damage type
+Endurion's Cold Arrows: Just like Flame Arrows, except they deal cold damage.
+Enemies Abound: no more concentration
+Fear: no more concentration
+Flame Arrows: no more concentration, now enchants the entire quiver, which is 20 arrows or bolts; added scaling: +1d6/2 SL above 3rd.
+Gaseous Form: the target becomes immune to nonmagical slashing, piercing and bludgeoning damage, and resistant to magical -//- damage, but vulnerable to fire and force damage; added scaling: +5 ft flying speed/2 SL above 3rd; +1h of duration/SL above 3rd.
+Glyph of Warding: material component depending on the element of the stored spell or desired damage type:
+ Element	| Gem type
+-------------------------------------
+ fire		| Obsidian
+ cold		| Prasiolite
+ acid		| Aventurine
+ radiant	| Diaspore
+ lightning	| Chrysoprase
+ sonic		| Chrysoprase
+ shadow		| Aventurine
+ ethereal	| Emerald
+
+Haste: added scaling: target +1 crea / SL above 3rd
+Hunger of Hadar: renamed to "Legion's Hunger"; you essentially cast Darkness at 3rd level, except it has different params (range 150 ft, duration conc. up to 1min, area of 20 ft radius sphere) and deals 2d6 shadow damage to creatures inside
+Leomund's Tiny Hut: renamed to "Cain's Refuge"
+Life Transference: can now be used to hurt undead, although they get a Charisma saving throw against that, which halves the damage on success
+Lightning Arrow: now functions simply as a "fireball", just smaller and lightning themed. And involves a ranged attack action. Now has no concentration, so 1 shot = 1 spell slot, and it deals less damage, but has a slightly bigger radius and the targets that fail the save are dazed for 1 r
