@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> It's shite, jut laughably bad.
+> It's shite, just laughably bad.
 
 The following set of homebrew rules intends to:
 * Adapt all the spells to the N:13k setting,
