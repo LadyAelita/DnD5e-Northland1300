@@ -5,7 +5,7 @@
 > It's shite, just laughably bad.
 
 The following set of homebrew rules intends to:
-* Adapt all the spells to the N:13h setting,
+* Adapt all the spells to the N:13 setting,
 * Attempt to balance out the casting system, by empowering some of the never used (or just straight up useless) spells.
 
 ## Files
