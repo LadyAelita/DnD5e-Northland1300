@@ -17,3 +17,8 @@ This file contains the basic user-friendly descriptions of advanced changes to t
 ### Spells.docx
 
 This is a table created for faster reference and for documenting trivial changes.
+
+### Reference files
+
+The following files just serve as sources that might be referenced in other parts of the project:
+* Updated-Rules.pdf
