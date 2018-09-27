@@ -120,6 +120,7 @@
 | History           | Historia                    |
 | Insight           | Intuicja                    |
 | Intimidation      | Zastraszanie                |
+| Investigation     | Dochodzenie                 |
 | Medicine          | Medycyna                    |
 | Nature            | Natura                      |
 | Perception        | Percepcja                   |
