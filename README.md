@@ -10,6 +10,14 @@ The following set of homebrew rules intends to:
 
 ## Files
 
+### PL/*.*
+
+A directory containing English <-> Polish dictionaries of D&D 5e and N:13 lingo.
+
+### Northland1300.pdf
+
+The main system reference document containing some crucial updates regarding mostly classes and class features.
+
 ### SpellDesc.txt
 
 This file contains the basic user-friendly descriptions of advanced changes to the spells.
