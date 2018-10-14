@@ -5,7 +5,7 @@
 		<description>The skill proficiencies added in Northland 1300.</description>
 		<author url="https://github.com/Unelith/DnD5e-Northland1300">Northland 1300</author>
 		<update version="0.0.1">
-			<file name="proficiencies.xml" url="http://127.0.0.1/northland/northland-1300/proficiencies.xml"/>
+			<file name="proficiencies.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/proficiencies.xml" />
 		</update>
 	</info>
 	<element name="Politics" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_POLITICS" source="Northland 1300">

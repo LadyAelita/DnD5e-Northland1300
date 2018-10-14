@@ -5,7 +5,7 @@
     <description>The Cavalier from Northland 1300</description>
     <author url="https://github.com/Unelith/DnD5e-Northland1300">Northland 1300</author>
     <update version="0.0.1">
-		<file name="fighter-cavalier.xml" url="http://127.0.0.1/northland/northland-1300/fighter-cavalier.xml"/>
+		<file name="fighter-cavalier.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/fighter-cavalier.xml" />
     </update>
   </info>
   <element name="Cavalier" type="Archetype" source="Northland 1300" id="ID_N1300_ARCHETYPE_FIGHTER_CAVALIER">

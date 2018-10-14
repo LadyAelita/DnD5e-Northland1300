@@ -2,16 +2,16 @@
 <elements>
 	<info>
 		<name>Northland 1300</name>
-		<description>The background used to set proficiencies that result from the INT modifier.</description>
+		<description>The background that allows to set the profeciencies according to the new INT modifier rule in N:1300.</description>
 		<author url="https://github.com/Unelith/DnD5e-Northland1300">Northland 1300</author>
-		<update version="0.0.1">
-			<file name="background-n1300-prof_1.xml" url="http://127.0.0.1/northland/northland-1300/background-n1300-prof_1.xml"/>
+		<update version="0.0.2">
+			<file name="background-n1300-prof_1.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/background-n1300-prof_1.xml" />
 		</update>
 	</info>
 
   <element name="Northland 1300" type="Background" source="Northland 1300" id="ID_N1300_BACKGROUND_N1300_PROF_1">
     <description>
-      <p>This background is used to provide additional proficiencies..</p>
+      <p>This background is used to provide INT-based proficiencies.</p>
       <p>
           <span class="feature">Skill Proficiencies:</span>Any<br/>
           <span class="feature">Languages:</span>None<br/>
@@ -19,7 +19,7 @@
       </p>
     </description>
     <rules>        
-      <select type="Proficiency" name="Intelligence Proficiency" supports="Skill" number="5" />
+      <select type="Proficiency" name="Intelligence Proficiency" supports="Skill" number="10" />
       <select name="Personality Trait" type="List" number="1">
         <item id="1">TODO</item>
       </select>
