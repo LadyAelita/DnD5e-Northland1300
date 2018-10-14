@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Northland 1300</name>
+		<description>The skill proficiencies added in Northland 1300.</description>
+		<author url="https://github.com/Unelith/DnD5e-Northland1300">Northland 1300</author>
+		<update version="0.0.1">
+			<file name="proficiencies.xml" url="http://127.0.0.1/northland/northland-1300/proficiencies.xml"/>
+		</update>
+	</info>
+	<element name="Politics" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_POLITICS" source="Northland 1300">
+		<supports>Skill,Intelligence,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>Politics checks measure your ability to recall lore about current wars, economics, diplomacy, and important houses.</p>
+		</description>
+		<rules>
+			<stat name="Politics Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+	<element name="Craftsmanship" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_CRAFTSMANSHIP" source="Northland 1300">
+		<supports>Skill,Intelligence,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>A Craftsmanship check determines the degree of your success (or failure) when you try to craft new items, figure out formulas for existing ones, and doing simple repairs, as well as your knowledge about different materials.</p>
+		</description>
+		<rules>
+			<stat name="Craftsmanship Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+	<element name="Runic Engineering" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_RUNIC_ENGINEERING" source="Northland 1300">
+		<supports>Skill,Intelligence,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>Your Runic Engineering check measures your knowledge about runic devices and programs, which serve as the basis for a significant part of the existing technology.</p>
+		</description>
+		<rules>
+			<stat name="Runic Engineering Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+	<element name="Warcraft" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_WARCRAFT" source="Northland 1300">
+		<supports>Skill,Intelligence,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>Your Warcraft check measures your knowledge about fighting, strategy, as well as various types of weaponry, armature and siege machinery</p>
+		</description>
+		<rules>
+			<stat name="Warcraft Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+	<element name="Composure" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_COMPOSURE" source="Northland 1300">
+		<supports>Skill,Wisdom,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>Composure checks determine your ability to stay cool, calm and collected despite all the circumstances.</p>
+		</description>
+		<rules>
+			<stat name="Composure Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+	<element name="Hearsay" type="Proficiency" id="ID_PROFICIENCY_SKILL_N1300_HEARSAY" source="Northland 1300">
+		<supports>Skill,Charisma,ID_PROFICIENCY_SKILL</supports>
+		<description>
+			<p>Your Hearsay check lets you gather recent local rumors and news from the commoners.</p>
+		</description>
+		<rules>
+			<stat name="Hearsay Proficiency" value="Proficiency" bonus="Proficiency" />
+		</rules>
+	</element>
+</elements>
