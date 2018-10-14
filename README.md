@@ -10,6 +10,10 @@ The following set of homebrew rules intends to:
 
 ## Files
 
+### AuroraBuilderEN/
+
+A directory containing custom content that adds N:1300 home rule support to Aurora Builder.
+
 ### PL/*.*
 
 A directory containing English <-> Polish dictionaries of D&D 5e and N:13 lingo.
