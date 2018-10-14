@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Fighter Battle Master Maneuvers (N1300)</name>
+    <description>Additional maneuvers for the Battle Master path.</description>
+    <author url="https://github.com/Unelith">Unelith</author>
+    <update version="0.0.1">
+		<file name="fighter-battlemaster-maneuvers.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/fighter-battlemaster-maneuvers.xml" />
+    </update>
+  </info>
+  
+  <element name="Murder Stroke" type="Archetype Feature" source="Northland 1300" id="ID_N1300_ARCHETYPE_FEATURE_MANEUVER_MURDER_STROKE">
+    <supports>Maneuver, Battle Master</supports>
+    <description>
+      <p>As a bonus action, you can try to hit a foe with the handle of your weapon. You expand one SD to try and make an attack that will deal damage equal to the SD + your Strength modifier. If you hit, the target will be dazed for the rest of the turn.</p>
+    </description>
+    <sheet>
+      <description>As a bonus action, you can try to hit a foe with the handle of your weapon. You expand one SD to try and make an attack that will deal damage equal to the SD + your Strength modifier. If you hit, the target will be dazed for the rest of the turn.</description>
+    </sheet>
+    <rules />
+  </element>
+</elements>
