@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Northland 1300 Armor</name>
+		<description>The armor variants from Northland 1300.</description>
+		<author url="https://github.com/Unelith">Unelith</author>
+		<update version="0.0.1">
+			<file name="items-armor.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/items-armor.xml" />
+		</update>
+	</info>
+
+	<!-- light armor -->
+
+	<!-- medium armor -->
+	<element name="Breastplate (N1300)" type="Armor" source="Northland 1300" id="ID_N1300_ARMOR_MEDIUM_BREASTPLATE">
+		<supports>ID_INTERNAL_ARMOR_GROUP_MEDIUM,ID_N1300_ARMOR_MEDIUM_BREASTPLATE</supports>
+		<description>
+			<p>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.</p>
+		</description>
+		<setters>
+			<set name="cost" currency="gp">400</set>
+			<set name="weight" lb="25">25 lb.</set>
+			<set name="slot">body</set>
+			<set name="armor">Medium</set>
+			<set name="armorClass">15 + Dex modifier (max 2)</set>
+			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="+5" bonus="armor" />
+		</rules>
+	</element>
+
+	<!-- heavy armor -->
+	<element name="Ring Mail (N1300)" type="Armor" source="Player’s Handbook" id="ID_N1300_ARMOR_HEAVY_RING_MAIL">
+		<supports>ID_INTERNAL_ARMOR_GROUP_HEAVY,ID_N1300_ARMOR_HEAVY_RING_MAIL</supports>
+		<description>
+			<p>This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.</p>
+		</description>
+		<setters>
+			<set name="cost" currency="gp">30</set>
+			<set name="weight" lb="40">40 lb.</set>
+			<set name="slot">body</set>
+			<set name="armor">Heavy</set>
+			<set name="stealth">Disadvantage</set>
+			<set name="armorClass">14</set>
+			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_RING_MAIL</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="+4" bonus="armor" />
+		</rules>
+	</element>
+	<element name="Chain Mail (N1300)" type="Armor" source="Northland 1300" id="ID_N1300_ARMOR_HEAVY_CHAIN_MAIL">
+		<supports>ID_INTERNAL_ARMOR_GROUP_HEAVY,ID_N1300_ARMOR_HEAVY_CHAIN_MAIL</supports>
+		<description>
+			<p>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</p>
+		</description>
+		<setters>
+			<set name="cost" currency="gp">75</set>
+			<set name="weight" lb="55">45 lb.</set>
+			<set name="slot">body</set>
+			<set name="armor">Heavy</set>
+			<set name="strength">13</set>
+			<set name="stealth">Disadvantage</set>
+			<set name="armorClass">15</set>
+			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_MAIL</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="+5" bonus="armor" />
+			<stat name="Speed" value="-10" bonus="armor" requirements="![str:13]" />
+		</rules>
+	</element>
+	<element name="Half Plate (N1300)" type="Armor" source="Northland 1300" id="ID_N1300_ARMOR_HEAVY_HALF_PLATE">
+		<supports>ID_INTERNAL_ARMOR_GROUP_HEAVY,ID_N1300_ARMOR_HEAVY_HALF_PLATE</supports>
+		<description>
+			<p>Half plate consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps.</p>
+		</description>
+		<setters>
+			<set name="cost" currency="gp">750</set>
+			<set name="weight" lb="40">50 lb.</set>
+			<set name="slot">body</set>
+			<set name="armor">Heavy</set>
+			<set name="stealth">Disadvantage</set>
+			<set name="armorClass">16</set>
+			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="+6" bonus="armor" />
+			<stat name="Speed" value="-10" bonus="armor" requirements="![str:14]" />
+		</rules>
+	</element>
+
+	<!--shield-->
+	<element name="Shield (N1300)" type="Armor" source="Player’s Handbook" id="ID_N1300_GEAR_SHIELD">
+		<supports>ID_INTERNAL_ARMOR_GROUP_SHIELD,ID_N1300_GEAR_SHIELD</supports>
+		<description>
+			<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p>
+		</description>
+		<setters>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="6">6 lb.</set>
+			<set name="slot">onehand,secondary</set>
+			<set name="type">Shield</set>
+			<set name="armor">Shield</set>
+			<set name="armorClass">+2</set>
+			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELD</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="shield" />
+			<stat name="Dexterity Saving Throw Misc" value="2" />
+		</rules>
+	</element>
+
+</elements>
