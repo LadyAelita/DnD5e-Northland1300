@@ -93,7 +93,7 @@
 	<element name="Shield (N1300)" type="Armor" source="Player’s Handbook" id="ID_N1300_GEAR_SHIELD">
 		<supports>ID_INTERNAL_ARMOR_GROUP_SHIELD,ID_N1300_GEAR_SHIELD</supports>
 		<description>
-			<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p>
+			<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class and Dexterity saves by 2. You can benefit from only one shield at a time.</p>
 		</description>
 		<setters>
 			<set name="cost" currency="gp">10</set>
