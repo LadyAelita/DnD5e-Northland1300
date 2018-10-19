@@ -100,6 +100,6 @@ Każde zastosowanie apteczki zużywa jeden z jej ładunków.
 
 | Rozmiar apteczki | Ilość ładunków | Wartość | Waga  |
 | ---------------- | -------------- | ------- | ----- |
-| Mała             | 4              | 2 sz    | 3 lb  |
+| Mała             | 4              | 2 sz    | 4 lb  |
 | Normalna         | 10             | 5 sz    | 8 lb  |
 | Wojenna          | 40             | 20 sz   | 26 lb |
