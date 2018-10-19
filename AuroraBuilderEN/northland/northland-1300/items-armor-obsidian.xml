@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Northland 1300 Obsidian Armor</name>
+		<description>The obsidian armor variants from Northland 1300.</description>
+		<author url="https://github.com/Unelith">Unelith</author>
+		<update version="0.0.1">
+			<file name="items-armor-obsidian.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/items-armor-obsidian.xml" />
+		</update>
+	</info>
+
+	<!-- light armor -->
+
+	<!-- medium armor -->
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_CHAIN_SHIRT">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">medium</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="20">20 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="chain shirt">Armor</set>
+			<set name="rarity">Uncommon</set>
+			<set name="armor">Chain Shirt</set>
+			<set name="name-format">Obsidian Chain Shirt</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+	
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_SCALE_MAIL">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">medium</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="45">45 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="scale mail">Armor</set>
+			<set name="rarity">Uncommon</set>
+			<set name="armor">Scale Mail</set>
+			<set name="name-format">Obsidian Scale Mail</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+	
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_BREASTPLATE">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">medium</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">4000</set>
+			<set name="weight" lb="25">25 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="breastplate">Armor</set>
+			<set name="rarity">Rare</set>
+			<set name="armor">ID_N1300_ARMOR_MEDIUM_BREASTPLATE</set>
+			<set name="name-format">Obsidian Breastplate</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+	
+	<!-- heavy armor -->
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_RING_MAIL">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">heavy</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="weight" lb="40">40 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="ring mail">Armor</set>
+			<set name="rarity">Uncommon</set>
+			<set name="armor">ID_N1300_ARMOR_HEAVY_RING_MAIL</set>
+			<set name="name-format">Obsidian Ring Mail</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+	
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_CHAIN_MAIL">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">heavy</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">750</set>
+			<set name="weight" lb="45">45 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="chain mail">Armor</set>
+			<set name="rarity">Uncommon</set>
+			<set name="armor">ID_N1300_ARMOR_HEAVY_CHAIN_MAIL</set>
+			<set name="name-format">Obsidian Chain Mail</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+	
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_HALF_PLATE">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">heavy</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">7500</set>
+			<set name="weight" lb="50">50 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="half plate">Armor</set>
+			<set name="rarity">Rare</set>
+			<set name="armor">ID_N1300_ARMOR_HEAVY_HALF_PLATE</set>
+			<set name="name-format">Obsidian Half Plate Armor</set>
+		</setters>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+
+	<element name="Obsidian Armor" type="Magic Item" source="Northland 1300" id="ID_N1300_MAGIC_ITEM_OBSIDIAN_FULL_PLATE">
+		<supports>Armor</supports>
+		<description>
+			<p>This suit of armor is made of obsidian, providing 2 more AC than a steel equivalent.</p>
+		</description>
+		<setters>
+			<set name="keywords">heavy</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">15000</set>
+			<set name="weight" lb="65">65 lb.</set>
+			<set name="slot">body</set>
+			<set name="type" addition="plate">Armor</set>
+			<set name="rarity">Rare</set>
+			<set name="armor">Plate</set>
+		</setters>
+			<set name="name-format">Obsidian Full Plate Armor</set>
+		<rules>
+			<stat name="AC" value="2" bonus="armor:enhancement" />
+		</rules>
+	</element>
+
+</elements>
