@@ -9,7 +9,7 @@ Gdy pula PW postaci zostaje zredukowana do 0 w wyniku jednego z poniższych:
 
 uznaje się, że owa postać jest **nieprzytomna**. Nieprzytomność niesie za sobą następujące konsekwencje:
 
-* nieprzytomna postać liczy się jako **obezwładniona**, nie może podejmować żadnych akcji ani korzystać ze swojej percepcji,
+* nieprzytomna postać liczy się jako **bezradna**, nie może podejmować żadnych akcji ani korzystać ze swojej percepcji,
 * postać natychmiastowo upuszcza trzymane w dłoniach przedmioty i upada na ziemię,
 * postać ponosi automatyczną porażkę w rzutach obronnych na Siłę lub Zręczność,
 * ataki przeciwko postaci wykonywane są z przewagą,
