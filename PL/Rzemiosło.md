@@ -77,7 +77,7 @@ ST dla większości przeciętnych przedmiotów waha się w przedziale od 10 do 1
 
 ### Przykład: Tworzenie zbroi pierścieniowej
 
-**Zygfryd** jest **Rycerzem** poziomu piątego. Jest on sprawny w **Rzemiośle** i posiada **13 Inteligencji**. Jego bonus ze sprawności wynosi +3, a modyfikator z Inteligencji +2, w wyniku czego jego premia do testów Rzemiosła wynosi +5. Ale Zygryd ma także dostęp do kuźni odziedziczonej po wuju, zyskując tym samym **przewagę** w testach Rzemiosła.
+**Zygfryd** jest **Rycerzem** poziomu piątego. Jest on sprawny w **Rzemiośle** i posiada **13 Inteligencji**. Jego bonus ze sprawności wynosi +3, a modyfikator z Inteligencji +2, w wyniku czego jego premia do testów Rzemiosła wynosi +5. Ale Zygryd ma także dostęp do kuźni odziedziczonej po wuju, zyskując tym samym **przewagę** w testach Rzemiosła. Kuźnia jest także wyposażona w narzędzia do pracy nad wyrobami skórzanymi.
 
 Można dzięki temu łatwo wyliczyć, że 10 godzin pracy Zygfryda jest warte **3 sztuki złota**.
 
@@ -119,6 +119,29 @@ Podstawowe koszta stworzenia pancerza tego typu wynoszą **25 sztuk złota** na 
 Nie trudno było Zygfrydowi dojść do wniosku, że jeśli zamiast płacić komuś innemu za pracę, poświęci swój wolny czas aby wykonać ją samodzielnie, zaoszczędzi. Opłacało mu się nawet przepłacić kupując surowce na zapas, gdyż zakup dużej ilości towaru za jednym razem pozwala zaoszczędzić na transporcie, a to co zostanie może zostać wykorzystane na wytworzenie innych przedmiotów.
 
 Ostatecznie Zygfryd zaoszczędził **7,5 sztuk złota**. Może się to wydawać niewielką sumą, ale dzięki temu Zygfryd będzie w stanie w trakcie swej nadchodzącej podróży bez problemu zakwaterować się w porządnej gospodzie i zjeść wysokiej jakości posiłek, utrzymując taki tryb życia przez nawet i **dwa miesiące**.
+
+## Koszty wytwarzania
+
+### Wyroby płatnerskie
+
+| Pancerz              | Wymagane surowce                                     | Wkład pracy*     | ST   |
+| -------------------- | ---------------------------------------------------- | ---------------- | ---- |
+| Koszulka kolcza      | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 30 sztuk złota   | 12   |
+| Zbroja łuskowa       | 20 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 30 sztuk złota   | 13   |
+| Napierśnik           | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 15 sztuk złota   | 15   |
+| Zbroja pierścieniowa | 15 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 15 sztuk złota   | 12   |
+| Kolczuga             | 35 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 35 sztuk złota   | 13   |
+| Zbroja półpłytowa    | 35** lb stali; 4 sztuki skóry lub *skórzany pancerz* | 540 sztuk złota  | 14   |
+| Pełna zbroja płytowa | 55** lb stali; 4 sztuki skóry lub *skórzany pancerz* | 1200 sztuk złota | 15   |
+
+| Tarcza           | Wymagane surowce        | Wkład pracy*   | ST   |
+| ---------------- | ----------------------- | -------------- | ---- |
+| Drewniana tarcza | 4 lb drewna; 2 lb stali | 2 sztuki złota | 10   |
+| Metalowa tarcza  | 15 lb stali             | 15 sztuk złota | 15   |
+
+<sup>*Wkład pracy jest podany dla stali - inne metale mogą być trudniejsze do przetworzenia i wymagać większego wkładu.</sup>
+
+<sup>**Płatnerze zazwyczaj zaopatrują się w większe ilości stali na wykonanie pancerzy półpłytowych i płytowych, gdyż istnieje duża szansa popełnienia błędu.</sup>
 
 # Nowe atuty rzemieślnicze
 
