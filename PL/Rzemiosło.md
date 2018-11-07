@@ -122,26 +122,54 @@ Ostatecznie Zygfryd zaoszczędził **7,5 sztuk złota**. Może się to wydawać 
 
 ## Koszty wytwarzania
 
+Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia skóra - inne metale mogą być trudniejsze do przetworzenia i wymagać większego wkładu.
+
+### Wyroby kowalskie
+
+#### Broń prosta do walki wręcz
+
+| Broń         | Wymagane surowce            | Wkład pracy       | ST   |
+| ------------ | --------------------------- | ----------------- | ---- |
+| Sztylet      | 0,4 lb drewna; 0,6 lb stali | 1 sztuka złota    | 12   |
+| Toporek      | 0,8 lb drewna; 1,2 lb stali | 3 sztuki złota    | 11   |
+| Oszczep      | 1,8 lb drewna; 0,2 lb stali | 0,15 sztuki złota | 11   |
+| Lekki młotek | 0,5 lb drewna; 1 lb stali   | 1,5 sztuki złota  | 12   |
+| Maczuga      | 1 lb drewna; 3 lb stali     | 2 sztuki złota    | 12   |
+| Sierp        | 1 lb drewna; 1 lb stali     | 0,5 sztuki złota  | 11   |
+| Włócznia     | 2,5 lb drewna; 0,5 lb stali | 0,15 sztuki złota | 11   |
+
+#### Broń prosta dystansowe
+
+| Broń        | Wymagane surowce        | Wkład pracy     | ST   |
+| ----------- | ----------------------- | --------------- | ---- |
+| Lekka kusza | 3 lb drewna; 2 lb stali | 22 sztuki złota | 14   |
+
+#### Broń żołnierska do walki wręcz
+
+| Broń         | Wymagane surowce            | Wkład pracy   | ST   |
+| ------------ | --------------------------- | ------------- | ---- |
+| Topór bojowy | 1,8 lb drewna; 2,2 lb stali | 6 sztuk złota | 12   |
+| Kiścień      | 0,3 lb drewna; 1,7 lb stali | 7 sztuk złota | 13   |
+| Glewia       | 4 lb drewna; 2 lb stali     |               |      |
+
 ### Wyroby płatnerskie
 
-| Pancerz              | Wymagane surowce                                     | Wkład pracy*     | ST   |
-| -------------------- | ---------------------------------------------------- | ---------------- | ---- |
-| Koszulka kolcza      | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 30 sztuk złota   | 12   |
-| Zbroja łuskowa       | 20 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 30 sztuk złota   | 13   |
-| Napierśnik           | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 15 sztuk złota   | 15   |
-| Zbroja pierścieniowa | 15 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 15 sztuk złota   | 12   |
-| Kolczuga             | 35 lb stali; 4 sztuki skóry lub *skórzany pancerz*   | 35 sztuk złota   | 13   |
-| Zbroja półpłytowa    | 35** lb stali; 4 sztuki skóry lub *skórzany pancerz* | 540 sztuk złota  | 14   |
-| Pełna zbroja płytowa | 55** lb stali; 4 sztuki skóry lub *skórzany pancerz* | 1200 sztuk złota | 15   |
+| Pancerz              | Wymagane surowce                                    | Wkład pracy      | ST   |
+| -------------------- | --------------------------------------------------- | ---------------- | ---- |
+| Koszulka kolcza      | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 30 sztuk złota   | 12   |
+| Zbroja łuskowa       | 20 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 30 sztuk złota   | 13   |
+| Napierśnik           | 10 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 15 sztuk złota   | 15   |
+| Zbroja pierścieniowa | 15 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 15 sztuk złota   | 12   |
+| Kolczuga             | 35 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 35 sztuk złota   | 13   |
+| Zbroja półpłytowa    | 35* lb stali; 4 sztuki skóry lub *skórzany pancerz* | 540 sztuk złota  | 14   |
+| Pełna zbroja płytowa | 55* lb stali; 4 sztuki skóry lub *skórzany pancerz* | 1200 sztuk złota | 15   |
 
-| Tarcza           | Wymagane surowce        | Wkład pracy*   | ST   |
+| Tarcza           | Wymagane surowce        | Wkład pracy    | ST   |
 | ---------------- | ----------------------- | -------------- | ---- |
 | Drewniana tarcza | 4 lb drewna; 2 lb stali | 2 sztuki złota | 10   |
 | Metalowa tarcza  | 15 lb stali             | 15 sztuk złota | 15   |
 
-<sup>*Wkład pracy jest podany dla stali - inne metale mogą być trudniejsze do przetworzenia i wymagać większego wkładu.</sup>
-
-<sup>**Płatnerze zazwyczaj zaopatrują się w większe ilości stali na wykonanie pancerzy półpłytowych i płytowych, gdyż istnieje duża szansa popełnienia błędu.</sup>
+<sup>*Płatnerze zazwyczaj zaopatrują się w większe ilości stali na wykonanie pancerzy półpłytowych i płytowych, gdyż istnieje duża szansa popełnienia błędu.</sup>
 
 # Nowe atuty rzemieślnicze
 
