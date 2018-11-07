@@ -138,7 +138,7 @@ Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia sk
 | Sierp        | 1 lb drewna; 1 lb stali     | 0,5 sztuki złota  | 11   |
 | Włócznia     | 2,5 lb drewna; 0,5 lb stali | 0,15 sztuki złota | 11   |
 
-#### Broń prosta dystansowe
+#### Broń prosta dystansowa
 
 | Broń        | Wymagane surowce        | Wkład pracy     | ST   |
 | ----------- | ----------------------- | --------------- | ---- |
@@ -146,11 +146,32 @@ Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia sk
 
 #### Broń żołnierska do walki wręcz
 
-| Broń         | Wymagane surowce            | Wkład pracy   | ST   |
-| ------------ | --------------------------- | ------------- | ---- |
-| Topór bojowy | 1,8 lb drewna; 2,2 lb stali | 6 sztuk złota | 12   |
-| Kiścień      | 0,3 lb drewna; 1,7 lb stali | 7 sztuk złota | 13   |
-| Glewia       | 4 lb drewna; 2 lb stali     |               |      |
+| Broń         | Wymagane surowce            | Wkład pracy      | ST   |
+| ------------ | --------------------------- | ---------------- | ---- |
+| Topór bojowy | 1,8 lb drewna; 2,2 lb stali | 6 sztuk złota    | 12   |
+| Kiścień      | 0,3 lb drewna; 1,7 lb stali | 7 sztuk złota    | 13   |
+| Glewia       | 3,5 lb drewna; 2,5 lb stali | 16 sztuk złota   | 13   |
+| Wielki topór | 2,5 lb drewna; 4,5 lb stali | 23 sztuki złota  | 14   |
+| Wielki miecz | 1 lb drewna; 5 lb stali     | 42 sztuki złota  | 15   |
+| Halabarda    | 3,5 lb drewna; 2,5 lb stali | 16 sztuk złota   | 13   |
+| Lanca        | 5 lb drewna; 1 lb stali     | 8 sztuk złota    | 15   |
+| Długi miecz  | 0,6 lb drewna; 2,4 lb stali | 11 sztuk złota   | 14   |
+| Młot         | 4 lb drewna; 6 lb stali     | 20 sztuk złota   | 14   |
+| Morgensztern | 0,5 lb drewna; 2,5 lb stali | 11 sztuk złota   | 14   |
+| Pika         | 17 lb drewna; 1 lb stali    | 4 sztuki złota   | 14   |
+| Rapier       | 0,4 lb drewna; 1,6 lb stali | 22 sztuki złota  | 15   |
+| Sejmitar     | 0,5 lb drewna; 2,5 lb stali | 11 sztuk złota   | 14   |
+| Krótki miecz | 0,4 lb drewna; 1,6 lb stali | 7 sztuk złota    | 12   |
+| Trójząb      | 3 lb drewna; 1 lb stali     | 3 sztuki złota   | 12   |
+| Nadziak      | 0,4 lb drewna; 1,6 lb stali | 2,5 sztuki złota | 14   |
+| Młot bojowy  | 0,4 lb drewna; 1,6 lb stali | 12 sztuk złota   | 14   |
+
+#### Broń żołnierska dystansowa
+
+| Broń         | Wymagane surowce         | Wkład pracy    | ST   |
+| ------------ | ------------------------ | -------------- | ---- |
+| Ciężka kusza | 11 lb drewna; 7 lb stali | 40 sztuk złota | 15   |
+| Ręczna kusza | 1 lb drewna; 2 lb stali  | 70 sztuk złota | 16   |
 
 ### Wyroby płatnerskie
 
