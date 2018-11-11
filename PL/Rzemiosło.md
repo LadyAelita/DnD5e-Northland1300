@@ -15,6 +15,7 @@ Bohaterowie nie są jednak przeciętnymi mieszkańcami i cele uprawiania przez n
 | **Alchemik**  | Alchemik zajmuje się przygotowywaniem eliskirów, smarowideł, granatów oraz trucizn z użyciem wiedzy o przemianach i reakcjach zachodzących z udziałem określonych substancji. Jednym z najtrudniejszych aspektów zawodu alchemicznego jest odnajdowanie rzadkich składników i bardzo ścisłych receptur. |
 | **Jubiler**   | Jubiler specjalizuje się w pracy z metalami i kamieniami szlachetnymi oraz w wytwarzaniu biżuterii. Ten zawód pełni bardzo istotną rolę w obecnych czasach, gdyż mechanizmy runiczne są oparte właśnie na kamieniach szlachetnych. Umiejętności jubilerskie pomagają także przy zaklinaniu, jeśli dany przedmiot nie posiada komórki na klejnot i będzie wymagał drobnych modyfikacji, lub gdy klejnot będzie wymagał drobnych poprawek aby pasował. |
 | **Kowal**     | Kowal zajmuje się wykuwaniem przedmiotów z metalu, zazwyczaj broni, ale także narzędzi, gwoździ, podków, krat, okuć dla drzwi oraz skrzyń, zawiasów. Potrafią też wykonywać proste drewniane przedmioty na potrzeby niektórych typów oręża. Umiejętności kowalskie mogą podobnie jak zdolności jubilerskie okazać się pomocne przy procesie zaklinania, w przypadku konieczności wprowadzenia poprawek w przedmiotach. |
+| **Łuczarz**   | Łuczarz zajmuje się produkcją łuków oraz strzał i bełtów, z wyjątkiem grotów. |
 | **Płatnerz**  | Płatnerz pracuje w bardzo podobny sposób co kowal, ale zamiast tego skupia się na wykuwaniu i składaniu metalowych elementów pancerzy. Jest też w stanie dostosować pancerze na potrzeby zaklinania. |
 | **Skórnik**   | Skórnik może zajmować się zarówno obróbką skór poprzez garbowanie, jak i wytwarzaniem różnych wyrobów skórzanych - butów, toreb, pasów, mieszków, ubrań, pancerzy. |
 | **Zaklinacz** | Zaklinacz wykorzystuje swoją zdolność do rzucania czarów aby powiązać przedmiot z odpowiednim kamieniem szlachetnym nadając mu specjalne właściwości. Zaklinacze często korzystają z innych dziedzin rzemiosła celem dostosowania przedmiotów przed zaklinaniem. |
@@ -44,6 +45,7 @@ Narzędzia często nie są pospolicie dostępne w sklepie, zazwyczaj trzeba je z
 | **Alchemik**              | Aparatura alchemiczna | Szklane zlewki, metalowy statyw do zlewek, szklana bagietka, moździerz, kilof alchemiczny, palnik, retorta, alembik, bukłak z oczyszczoną wodą, sakiewka z generycznymi składnkiami, takimi jak: sól, siarka, sproszkowane żelazo i różnej maści zioła. | 50 sztuk złota | 500 sztuk złota |
 | **Jubiler**               | Narzędzia jubilerskie | Piła jubilerska, młotek, szczypce, zestaw pilników igiełkowych, zestaw pęset. | 25 sztuk złota | 500 sztuk złota |
 | **Kowal**, **Płatnerz**   | Narzędzia kowalskie   | Młot kowalski, szczypce, węgiel, łachmany, osełka, dłuto, nóż, niewielka piła. | 20 sztuk złota | 500 sztuk złota |
+| **Łuczarz**               | Narzędzia łuczarza    | Zestaw noży, zestaw dłut, niewielka piła.                    | 5 sztuk złota  | 100 sztuk złota |
 | **Skórnik**               | Narzędzia skórnicze   | Nóż, mały drewniany młotek, nożyk do zaoblania krawędzi skóry, szydło, igły, nici, radełko szewskie, kołek do wykańczania krawędzi, kawałki skóry, nożyk do wydrążania rowków pod szwy. | 15 sztuk złota | 500 sztuk złota |
 | **Zaklinacz (specjalne)** | -                     | Dostęp do czaru *Transfuzja energii*.                        | -              | -               |
 
@@ -176,7 +178,37 @@ Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia sk
 | Ciężka kusza | 11 lb drewna; 7 lb stali | 40 sztuk złota | 15   |
 | Ręczna kusza | 1 lb drewna; 2 lb stali  | 70 sztuk złota | 16   |
 
+#### Amunicja
+
+| Przedmiot    | Wymagane surowce | Wkład pracy       | ST   |
+| ------------ | ---------------- | ----------------- | ---- |
+| Grot strzały | 0,02 lb stali    | 0,01 sztuki złota | 10   |
+| Grot bełtu   | 0,02 lb stali    | 0,01 sztuki złota | 10   |
+
+### Wyroby łuczarza
+
+#### Broń prosta dystansowa
+
+| Broń       | Wymagane surowce | Wkład pracy     | ST   |
+| ---------- | ---------------- | --------------- | ---- |
+| Krótki łuk | 2 lb drewna      | 24 sztuki złota | 12   |
+
+#### Broń żołnierska dystansowa
+
+| Broń      | Wymagane surowce | Wkład pracy    | ST   |
+| --------- | ---------------- | -------------- | ---- |
+| Długi łuk | 3 lb drewna      | 45 sztuk złota | 15   |
+
+#### Amunicja
+
+| Przedmiot  | Wymagane surowce               | Wkład pracy       | ST   |
+| ---------- | ------------------------------ | ----------------- | ---- |
+| Strzała    | 0,03 lb drewna; *grot strzały* | 0,01 sztuki złota | 10   |
+| Grot bełtu | 0,06 lb drewna; *grot bełtu*   | 0,01 sztuki złota | 10   |
+
 ### Wyroby płatnerskie
+
+#### Pancerze
 
 | Pancerz              | Wymagane surowce                                    | Wkład pracy      | ST   |
 | -------------------- | --------------------------------------------------- | ---------------- | ---- |
@@ -187,6 +219,8 @@ Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia sk
 | Kolczuga             | 35 lb stali; 4 sztuki skóry lub *skórzany pancerz*  | 35 sztuk złota   | 13   |
 | Zbroja półpłytowa    | 35* lb stali; 4 sztuki skóry lub *skórzany pancerz* | 540 sztuk złota  | 14   |
 | Pełna zbroja płytowa | 55* lb stali; 4 sztuki skóry lub *skórzany pancerz* | 1200 sztuk złota | 15   |
+
+#### Tarcze
 
 | Tarcza           | Wymagane surowce        | Wkład pracy    | ST   |
 | ---------------- | ----------------------- | -------------- | ---- |
