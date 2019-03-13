@@ -22,7 +22,7 @@ A directory containing English <-> Polish dictionaries of D&D 5e and N:13 lingo.
 
 The main system reference document containing some crucial updates regarding mostly classes and class features.
 
-### SpellDesc.txt
+### SpellChangeDesc.md
 
 This file contains the basic user-friendly descriptions of advanced changes to the spells.
 
