@@ -126,6 +126,10 @@ Ostatecznie Zygfryd zaoszczędził **7,5 sztuk złota**. Może się to wydawać 
 
 Wkład pracy jest podany dla domyślnych materiałów, jak np. stal czy kozia skóra - inne metale mogą być trudniejsze do przetworzenia i wymagać większego wkładu.
 
+### Wyroby alchemiczne
+
+Każda konkretna mikstura wymaga innych składników, innego wkładu pracy i innego ST.
+
 ### Wyroby kowalskie
 
 #### Broń prosta do walki wręcz
