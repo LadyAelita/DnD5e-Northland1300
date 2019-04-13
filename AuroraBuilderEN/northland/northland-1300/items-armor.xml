@@ -4,7 +4,7 @@
 		<name>Northland 1300 Armor</name>
 		<description>The armor variants from Northland 1300.</description>
 		<author url="https://github.com/Unelith">Unelith</author>
-		<update version="0.0.1">
+		<update version="1.0.0">
 			<file name="items-armor.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/items-armor.xml" />
 		</update>
 	</info>
@@ -26,7 +26,7 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE</set>
 		</setters>
 		<rules>
-			<stat name="AC" value="+5" bonus="armor" />
+			<stat name="ac:armored:armor" value="15" />
 		</rules>
 	</element>
 
@@ -46,7 +46,7 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_RING_MAIL</set>
 		</setters>
 		<rules>
-			<stat name="AC" value="+4" bonus="armor" />
+			<stat name="ac:armored:armor" value="14" />
 		</rules>
 	</element>
 	<element name="Chain Mail (N1300)" type="Armor" source="Northland 1300" id="ID_N1300_ARMOR_HEAVY_CHAIN_MAIL">
@@ -65,8 +65,8 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_MAIL</set>
 		</setters>
 		<rules>
-			<stat name="AC" value="+5" bonus="armor" />
-			<stat name="Speed" value="-10" bonus="armor" requirements="![str:13]" />
+			<stat name="ac:armored:armor" value="15" />
+			<stat name="speed:misc" value="-10" bonus="armor" requirements="![str:13]" />
 		</rules>
 	</element>
 	<element name="Half Plate (N1300)" type="Armor" source="Northland 1300" id="ID_N1300_ARMOR_HEAVY_HALF_PLATE">
@@ -84,8 +84,8 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE</set>
 		</setters>
 		<rules>
-			<stat name="AC" value="+6" bonus="armor" />
-			<stat name="Speed" value="-10" bonus="armor" requirements="![str:14]" />
+			<stat name="ac:armored:armor" value="16" />
+			<stat name="speed:misc" value="-10" bonus="armor" requirements="![str:14]" />
 		</rules>
 	</element>
 
@@ -105,8 +105,8 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELD</set>
 		</setters>
 		<rules>
-			<stat name="AC" value="2" bonus="shield" />
-			<stat name="Dexterity Saving Throw Misc" value="2" />
+			<stat name="ac:shield" value="2" bonus="shield" />
+			<stat name="dexterity:save:misc" value="2" />
 		</rules>
 	</element>
 
