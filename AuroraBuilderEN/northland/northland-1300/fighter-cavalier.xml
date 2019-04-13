@@ -4,7 +4,7 @@
     <name>Cavalier (N1300)</name>
     <description>The Cavalier from Northland 1300</description>
     <author url="https://github.com/Unelith">Unelith</author>
-    <update version="1.0.0">
+    <update version="1.0.1">
 		<file name="fighter-cavalier.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/fighter-cavalier.xml" />
     </update>
   </info>
@@ -58,29 +58,17 @@
       <p class="indent">While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn’t target you.</p>
       <p class="indent">In addition, if a creature marked by you deals damage to anyone other than you, you can make a special melee weapon attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attacks weapon deals extra damage to the target equal to half your fighter level. Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</p>
     </description>
-    <sheet>
-      <description>When you hit a creature with a melee weapon attack, mark it until the end of your next turn. While it is within 5ft of you it has disadvantage on attack rolls that don't target you. If it does deal damage to anyone other than you, make a special melee weapon attack as a bonus action on your next turn. You have advantage on this attack, and if it hits, it deals an extra %hacky half level% damage.(%Strength Modifier%/long rest</description>
+    <sheet usage="{{strength:modifier}}/Long Rest">
+      <description>When you hit a creature with a melee weapon attack, mark it until the end of your next turn. While it is within 5ft of you it has disadvantage on attack rolls that don't target you. If it does deal damage to anyone other than you, make a special melee weapon attack as a bonus action on your next turn. You have advantage on this attack, and if it hits, it deals an extra {{level:fighter:half}} damage.</description>
     </sheet>
-    <rules>
-      <stat name="hacky half level up" value="1" />
-      <stat name="hacky half level up" value="1" level="3" />
-      <stat name="hacky half level up" value="1" level="5" />
-      <stat name="hacky half level up" value="1" level="7" />
-      <stat name="hacky half level up" value="1" level="9" />
-      <stat name="hacky half level up" value="1" level="11" />
-      <stat name="hacky half level up" value="1" level="13" />
-      <stat name="hacky half level up" value="1" level="15" />
-      <stat name="hacky half level up" value="1" level="17" />
-      <stat name="hacky half level up" value="1" level="19" />
-    </rules>
   </element>
   <element name="Warding Maneuver" type="Archetype Feature" source="Northland 1300" id="ID_N1300_ARCHETYPE_FEATURE_CAVALIER_WARDING_MANEUVER">
     <description>
       <p>At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can roll 1d8 as a reaction if you’re wielding a melee weapon or a shield. Roll the die, and add the number rolled to the target’s AC against that attack. If the attack still hits, the target has resistance against the attack’s damage.</p>
       <p class="indent">You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</p>
     </description>
-    <sheet>
-      <description>Reaction: If you or a creature within 5ft is hit by an attack, and you are wielding a melee weapon or shield, roll 1d8 and add the number rolled to its AC. If the attack still hits, it has resistance against the attack's damage.(%Constitution Modifier%/long rest)</description>
+    <sheet usage="{{constitution:modifier}}/Long Rest" action="Reaction">
+      <description>Reaction: If you or a creature within 5ft is hit by an attack, and you are wielding a melee weapon or shield, roll 1d8 and add the number rolled to its AC. If the attack still hits, it has resistance against the attack's damage.</description>
     </sheet>
     <rules />
   </element>
@@ -101,9 +89,9 @@
       <description>1/turn if you move at least 10ft in a straight line before attacking a creature and hit it, it makes a DC%charger:dc% Strength saving throw or is knocked prone.</description>
     </sheet>
     <rules>
-      <stat name="spell:dc" value="+8" />
-      <stat name="spell:dc" value="+Proficiency" />
-      <stat name="spell:dc" value="+Strength Modifier" />
+		<stat name="ferocious charger:dc" value="8" />
+		<stat name="ferocious charger:dc" value="proficiency" />
+		<stat name="ferocious charger:dc" value="strength:modifier" />
     </rules>
   </element>
   <element name="Vigilant Defender" type="Archetype Feature" source="Northland 1300" id="ID_N1300_ARCHETYPE_FEATURE_CAVALIER_VIGILANT_DEFENDER">

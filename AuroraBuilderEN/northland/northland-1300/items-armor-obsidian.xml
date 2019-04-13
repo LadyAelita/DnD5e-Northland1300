@@ -4,7 +4,7 @@
 		<name>Northland 1300 Obsidian Armor</name>
 		<description>The obsidian armor variants from Northland 1300.</description>
 		<author url="https://github.com/Unelith">Unelith</author>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="items-armor-obsidian.xml" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300/items-armor-obsidian.xml" />
 		</update>
 	</info>
@@ -29,7 +29,7 @@
 			<set name="name-format">Obsidian Chain Shirt</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 	
@@ -50,7 +50,7 @@
 			<set name="name-format">Obsidian Scale Mail</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 	
@@ -71,7 +71,7 @@
 			<set name="name-format">Obsidian Breastplate</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 	
@@ -93,7 +93,7 @@
 			<set name="name-format">Obsidian Ring Mail</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 	
@@ -114,7 +114,7 @@
 			<set name="name-format">Obsidian Chain Mail</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 	
@@ -135,7 +135,7 @@
 			<set name="name-format">Obsidian Half Plate Armor</set>
 		</setters>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 
@@ -156,7 +156,7 @@
 		</setters>
 			<set name="name-format">Obsidian Full Plate Armor</set>
 		<rules>
-			<stat name="ac:calculation" value="2" bonus="armor:enhancement" />
+			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
 

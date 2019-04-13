@@ -4,7 +4,7 @@
 		<name>Northland 1300</name>
 		<description>The content for the N:1300 setting, including both new classes, feats etc. and updated versions of the existing ones.</description>
 		<author url="https://github.com/Unelith">Unelith</author>
-		<update version="1.0.0" revised="">
+		<update version="1.0.1" revised="">
 			<file name="northland-1300.index" url="https://raw.githubusercontent.com/Unelith/DnD5e-Northland1300/master/AuroraBuilderEN/northland/northland-1300.index" />
 		</update>
 	</info>
