@@ -1,17 +1,17 @@
 ## Antilife Shell
 
-Classes: **Cleric (Death), Cleric (Protection), Cleric (Grave), Druid**
-Level: **5**
+Classes: **Cleric (Death), Cleric (Protection), Cleric (Grave), Druid**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Death**
+School: **Abjuration**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 hour**
-Range: **Self (10-foot radius)**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 hour**  
+Range: **Self (10-foot radius)**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

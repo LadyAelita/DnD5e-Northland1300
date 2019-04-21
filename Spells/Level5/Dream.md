@@ -1,17 +1,17 @@
 ## Dream
 
-Classes: **Bard, Druid (Grassland), Warlock, Wizard**
-Level: **5**
+Classes: **Bard, Druid (Grassland), Warlock, Wizard**  
+Level: **5**  
 
-School: **Illusion (Phantasm)**
-Element: **Aether**
+School: **Illusion (Phantasm)**  
+Element: **Aether**  
 
-Casting Time: **1 minute**
-Duration: **8 hours**
-Range: **0 dimensional overlaps (infinite, as long as on the same plane of existence)**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **8 hours**  
+Range: **0 dimensional overlaps (infinite, as long as on the same plane of existence)**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

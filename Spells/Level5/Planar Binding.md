@@ -1,17 +1,17 @@
 ## Planar Binding
 
-Classes: **Bard, Cleric, Druid, Wizard**
-Level: **5**
+Classes: **Bard, Cleric, Druid, Wizard**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Aether**
+School: **Abjuration**  
+Element: **Aether**  
 
-Casting Time: **1 hour**
-Duration: **24 hours**
-Range: **60 feet**
-Components: **V, S, F, M (a gemstone worth at least 1,000 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 hour**  
+Duration: **24 hours**  
+Range: **60 feet**  
+Components: **V, S, F, M (a gemstone worth at least 1,000 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

@@ -1,17 +1,17 @@
 ## Contagion
 
-Classes: **Cleric, Druid, Paladin (Oathbreaker), Warlock**
-Level: **5**
+Classes: **Cleric, Druid, Paladin (Oathbreaker), Warlock**  
+Level: **5**  
 
-School: **Necromancy (Black)**
-Element: **Death**
+School: **Necromancy (Black)**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **7 days**
-Range: **Touch**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **7 days**  
+Range: **Touch**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

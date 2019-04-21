@@ -1,17 +1,17 @@
 ## Teleportation Circle
 
-Classes: **Bard, Cleric (Arcana), Wizard**
-Level: **5**
+Classes: **Bard, Cleric (Arcana), Wizard**  
+Level: **5**  
 
-School: **Conjuration (Teleportation)**
-Element: **Aether**
+School: **Conjuration (Teleportation)**  
+Element: **Aether**  
 
-Casting Time: **1 minute**
-Duration: **1 round**
-Range: **10 feet**
-Components: **V, M (rare chalks and lapis lazuli ink worth 50 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **1 round**  
+Range: **10 feet**  
+Components: **V, M (rare chalks and lapis lazuli ink worth 50 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

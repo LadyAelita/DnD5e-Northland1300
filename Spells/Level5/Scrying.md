@@ -1,17 +1,17 @@
 ## Scrying
 
-Classes: **Bard, Cleric, Druid, Paladin (Vengeance), Warlock, Wizard**
-Level: **5**
+Classes: **Bard, Cleric, Druid, Paladin (Vengeance), Warlock, Wizard**  
+Level: **5**  
 
-School: **Divination (Scrying)**
-Element: **Darkness**
+School: **Divination (Scrying)**  
+Element: **Darkness**  
 
-Casting Time: **10 minutes**
-Duration: **Concentration, up to 10 minutes**
-Range: **Self**
-Components: **V, S, M (either a focus worth at least 10,000 gp, such as a crystal ball,  a silver mirror, or a font filled with holy water, or a cosmic opal worth at least 1,000 gp)**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **10 minutes**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **Self**  
+Components: **V, S, M (either a focus worth at least 10,000 gp, such as a crystal ball,  a silver mirror, or a font filled with holy water, or a cosmic opal worth at least 1,000 gp)**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

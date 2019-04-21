@@ -1,17 +1,17 @@
 ## Banishing Smite
 
-Classes: **Paladin**
-Level: **5**
+Classes: **Paladin**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Water**
+School: **Abjuration**  
+Element: **Water**  
 
-Casting Time: **1 melee attack**
-Duration: **Instantaneous / Concentration, up to 1 minute**
-Range: **Melee**
-Components: **V, S**
-Ritual: **False**
-Concentration: **Optional**
+Casting Time: **1 melee attack**  
+Duration: **Instantaneous / Concentration, up to 1 minute**  
+Range: **Melee**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **Optional**  
 
 ------
 

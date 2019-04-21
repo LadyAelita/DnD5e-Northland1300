@@ -1,17 +1,17 @@
 ## Control Winds
 
-Classes: **Druid, Wizard**
-Level: **5**
+Classes: **Druid, Wizard**  
+Level: **5**  
 
-School: **Transmutation**
-Element: **Air**
+School: **Transmutation**  
+Element: **Air**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 hour**
-Range: **300 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 hour**  
+Range: **300 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

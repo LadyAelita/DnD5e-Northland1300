@@ -1,17 +1,17 @@
 ## Negative Energy Flood
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Necromancy (Black)**
-Element: **Death**
+School: **Necromancy (Black)**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **60 feet**
-Components: **V, F**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **60 feet**  
+Components: **V, F**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

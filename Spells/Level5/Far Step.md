@@ -1,17 +1,17 @@
 ## Far Step
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Conjuration (Teleportation)**
-Element: **Aether**
+School: **Conjuration (Teleportation)**  
+Element: **Aether**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **Self**
-Components: **V**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **Self**  
+Components: **V**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

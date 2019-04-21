@@ -1,17 +1,17 @@
 ## Infernal Calling
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Conjuration (Calling)**
-Element: **Aether/Demonology**
+School: **Conjuration (Calling)**  
+Element: **Aether/Demonology**  
 
-Casting Time: **1 minute**
-Duration: **Instantaneous/Infinite**
-Range: **90 feet**
-Components: **V, S, M (a garnet or a doomstone worth at least 999 gp)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **Instantaneous/Infinite**  
+Range: **90 feet**  
+Components: **V, S, M (a garnet or a doomstone worth at least 999 gp)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

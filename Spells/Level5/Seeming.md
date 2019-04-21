@@ -1,17 +1,17 @@
 ## Seeming
 
-Classes: **Bard, Warlock (Archfey), Wizard**
-Level: **5**
+Classes: **Bard, Warlock (Archfey), Wizard**  
+Level: **5**  
 
-School: **Illusion (Glamer)**
-Element: **Light**
+School: **Illusion (Glamer)**  
+Element: **Light**  
 
-Casting Time: **1 action**
-Duration: **8 hours**
-Range: **30 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **8 hours**  
+Range: **30 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

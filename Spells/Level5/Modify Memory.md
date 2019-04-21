@@ -1,17 +1,17 @@
 ## Modify Memory
 
-Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Wizard**
-Level: **5**
+Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Wizard**  
+Level: **5**  
 
-School: **Enchantment (Charm)**
-Element: **Darkness**
+School: **Enchantment (Charm)**  
+Element: **Darkness**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **30 ft**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **30 ft**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

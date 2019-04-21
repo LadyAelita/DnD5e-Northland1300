@@ -1,17 +1,17 @@
 ## Legend Lore
 
-Classes: **Bard, Cleric, Warlock, Wizard**
-Level: **5**
+Classes: **Bard, Cleric, Warlock, Wizard**  
+Level: **5**  
 
-School: **Divination**
-Element: **Aether**
+School: **Divination**  
+Element: **Aether**  
 
-Casting Time: **10 minutes**
-Duration: **Instantaneous**
-Range: **Self**
-Components: **V, S, M (incense worth at least 500 gp and four gems, all of which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **10 minutes**  
+Duration: **Instantaneous**  
+Range: **Self**  
+Components: **V, S, M (incense worth at least 500 gp and four gems, all of which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

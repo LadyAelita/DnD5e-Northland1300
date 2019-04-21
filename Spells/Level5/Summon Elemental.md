@@ -1,17 +1,17 @@
 ## Summon Elemental
 
-Classes: **Druid, Wizard**
-Level: **5**
+Classes: **Druid, Wizard**  
+Level: **5**  
 
-School: **Conjuration (Summoning)**
-Element: **Aether**
+School: **Conjuration (Summoning)**  
+Element: **Aether**  
 
-Casting Time: **1 action/1 minute**
-Duration: **Up to 1 minute/8 hours**
-Range: **90 feet**
-Components: **V, S, M (either an opal, or consumed gem dust worth 25 gp)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action/1 minute**  
+Duration: **Up to 1 minute/8 hours**  
+Range: **90 feet**  
+Components: **V, S, M (either an opal, or consumed gem dust worth 25 gp)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

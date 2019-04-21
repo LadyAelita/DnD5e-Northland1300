@@ -1,17 +1,17 @@
 ## Greater Restoration
 
-Classes: **Bard, Cleric, Druid, Warlock (The Eternal Flame)**
-Level: **5**
+Classes: **Bard, Cleric, Druid, Warlock (The Eternal Flame)**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Light**
+School: **Abjuration**  
+Element: **Light**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **Touch**
-Components: **V, S, M (diamond dust worth 100 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **Touch**  
+Components: **V, S, M (diamond dust worth 100 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

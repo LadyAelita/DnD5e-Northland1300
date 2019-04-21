@@ -1,17 +1,17 @@
 ## Telekinesis
 
-Classes: **Warlock (Great Old One), Wizard**
-Level: **5**
+Classes: **Warlock (Great Old One), Wizard**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Earth**
+School: **Evocation**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **60 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **60 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

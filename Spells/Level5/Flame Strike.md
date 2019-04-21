@@ -1,17 +1,17 @@
 ## Flame Strike
 
-Classes: **Cleric, Warlock, Paladin (Devotion)**
-Level: **5**
+Classes: **Cleric, Warlock, Paladin (Devotion)**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Fire**
+School: **Evocation**  
+Element: **Fire**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **90 feet**
-Components: **V, S, M (pinch of sulfur)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **90 feet**  
+Components: **V, S, M (pinch of sulfur)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

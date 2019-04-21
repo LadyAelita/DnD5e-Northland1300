@@ -1,17 +1,17 @@
 ## Insect Plague
 
-Classes: **Cleric, Druid, Paladin**
-Level: **5**
+Classes: **Cleric, Druid, Paladin**  
+Level: **5**  
 
-School: **Conjuration (Summoning)**
-Element: **Darkness**
+School: **Conjuration (Summoning)**  
+Element: **Darkness**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **300 feet**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **300 feet**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

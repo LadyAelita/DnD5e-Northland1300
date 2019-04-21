@@ -1,17 +1,17 @@
 ## Holy Weapon
 
-Classes: **Cleric, Paladin**
-Level: **5**
+Classes: **Cleric, Paladin**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Light**
+School: **Evocation**  
+Element: **Light**  
 
-Casting Time: **1 bonus action**
-Duration: **Concentration, up to 1 hour**
-Range: **Touch**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 bonus action**  
+Duration: **Concentration, up to 1 hour**  
+Range: **Touch**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

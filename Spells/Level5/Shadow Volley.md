@@ -1,17 +1,17 @@
 ## Shadow Volley
 
-Classes: **Ranger**
-Level: **5**
+Classes: **Ranger**  
+Level: **5**  
 
-School: **Illusion (Shadow)**
-Element: **Darkness**
+School: **Illusion (Shadow)**  
+Element: **Darkness**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **150 feet**
-Components: **V, S, M (one piece of ammunition or one thrown weapon)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **150 feet**  
+Components: **V, S, M (one piece of ammunition or one thrown weapon)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

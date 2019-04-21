@@ -1,17 +1,17 @@
 ## Cone of Cold
 
-Classes: **Druid (Arctic), Wizard, Warlock (Hexblade)**
-Level: **4**
+Classes: **Druid (Arctic), Wizard, Warlock (Hexblade)**  
+Level: **4**  
 
-School: **Evocation**
-Element: **Water**
+School: **Evocation**  
+Element: **Water**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **Self (60-foot cone)**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **Self (60-foot cone)**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

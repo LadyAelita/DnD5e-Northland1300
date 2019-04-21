@@ -1,17 +1,17 @@
 ## Transmute Rock
 
-Classes: **Druid, Wizard**
-Level: **5**
+Classes: **Druid, Wizard**  
+Level: **5**  
 
-School: **Transmutation**
-Element: **Earth**
+School: **Transmutation**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Until dispelled**
-Range: **120 feet**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Until dispelled**  
+Range: **120 feet**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

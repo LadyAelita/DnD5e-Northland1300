@@ -1,17 +1,17 @@
 ## Passwall
 
-Classes: **Druid (Mountain), Paladin (Treachery), Wizard, Warlock (Seeker)**
-Level: **5**
+Classes: **Druid (Mountain), Paladin (Treachery), Wizard, Warlock (Seeker)**  
+Level: **5**  
 
-School: **Transmutation**
-Element: **Earth**
+School: **Transmutation**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **1 hour**
-Range: **30 feet**
-Components: **V, S, M (a pinch of sesame seeds)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **1 hour**  
+Range: **30 feet**  
+Components: **V, S, M (a pinch of sesame seeds)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

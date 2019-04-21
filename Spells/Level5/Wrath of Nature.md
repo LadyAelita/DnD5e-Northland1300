@@ -1,17 +1,17 @@
 ## Wrath of Nature
 
-Classes: **Druid, Ranger**
-Level: **5**
+Classes: **Druid, Ranger**  
+Level: **5**  
 
-School: **Conjuration (Calling)**
-Element: **Earth**
+School: **Conjuration (Calling)**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **120 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **120 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

@@ -1,17 +1,17 @@
 ## Telepathic Bond
 
-Classes: **Wizard**
-Level: **5**
+Classes: **Wizard**  
+Level: **5**  
 
-School: **Divination**
-Element: **Aether**
+School: **Divination**  
+Element: **Aether**  
 
-Casting Time: **1 action**
-Duration: **1 hour**
-Range: **30 feet**
-Components: **V, S, F**
-Ritual: **True**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **1 hour**  
+Range: **30 feet**  
+Components: **V, S, F**  
+Ritual: **True**  
+Concentration: **False**  
 
 ------
 

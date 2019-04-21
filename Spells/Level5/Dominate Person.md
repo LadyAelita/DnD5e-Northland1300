@@ -1,17 +1,17 @@
 ## Dominate Person
 
-Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Wizard**
-Level: **5**
+Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Wizard**  
+Level: **5**  
 
-School: **Enchantment (Compulsion)**
-Element: **Darkness**
+School: **Enchantment (Compulsion)**  
+Element: **Darkness**  
 
-Casting Time: **1 action**
-Duration: **1 minute**
-Range: **60 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **1 minute**  
+Range: **60 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

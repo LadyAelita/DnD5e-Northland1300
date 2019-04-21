@@ -1,17 +1,17 @@
 ## Mislead
 
-Classes: **Bard, Wizard**
-Level: **5**
+Classes: **Bard, Wizard**  
+Level: **5**  
 
-School: **Illusion (Figment)**
-Element: **Darkness**
+School: **Illusion (Figment)**  
+Element: **Darkness**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 hour**
-Range: **Self**
-Components: **S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 hour**  
+Range: **Self**  
+Components: **S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

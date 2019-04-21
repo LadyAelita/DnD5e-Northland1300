@@ -1,17 +1,17 @@
 ## Commune with City
 
-Classes: **Warlock, Wizard, Cleric (City)**
-Level: **5**
+Classes: **Warlock, Wizard, Cleric (City)**  
+Level: **5**  
 
-School: **Divination**
-Element: **Aether**
+School: **Divination**  
+Element: **Aether**  
 
-Casting Time: **1 minute**
-Duration: **Instantaneous**
-Range: **Self**
-Components: **V, S**
-Ritual: **True**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **Instantaneous**  
+Range: **Self**  
+Components: **V, S**  
+Ritual: **True**  
+Concentration: **False**  
 
 ------
 

@@ -1,17 +1,17 @@
 ## Circle of Protection
 
-Classes: **Paladin, Cleric (Solidarity)**
-Level: **5**
+Classes: **Paladin, Cleric (Solidarity)**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Water**
+School: **Abjuration**  
+Element: **Water**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **Self (30-foot radius)**
-Components: **V, F**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **Self (30-foot radius)**  
+Components: **V, F**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

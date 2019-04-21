@@ -1,17 +1,17 @@
 ## Destructive Wave
 
-Classes: **Cleric (Tempest), Cleric (Strength), Cleric (Zeal), Warlock (The Sentient Sword), Paladin**
-Level: **5**
+Classes: **Cleric (Tempest), Cleric (Strength), Cleric (Zeal), Warlock (The Sentient Sword), Paladin**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Earth**
+School: **Evocation**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **Self (30-foot radius)**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **Self (30-foot radius)**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

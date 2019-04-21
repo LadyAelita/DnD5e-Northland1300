@@ -1,17 +1,17 @@
 ## Dawn
 
-Classes: **Cleric, Wizard**
-Level: **5**
+Classes: **Cleric, Wizard**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Light**
+School: **Evocation**  
+Element: **Light**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **60 feet**
-Components: **V, S, M (a fiery beryl worth at least 100 gp)**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **60 feet**  
+Components: **V, S, M (a fiery beryl worth at least 100 gp)**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

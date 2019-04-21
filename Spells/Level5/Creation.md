@@ -1,17 +1,17 @@
 ## Creation
 
-Classes: **Druid, Wizard**
-Level: **5**
+Classes: **Druid, Wizard**  
+Level: **5**  
 
-School: **Illusion (Shadow)**
-Element: **Darkness**
+School: **Illusion (Shadow)**  
+Element: **Darkness**  
 
-Casting Time: **1 minute**
-Duration: **Concentration, up to 1 hour**
-Range: **300 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 minute**  
+Duration: **Concentration, up to 1 hour**  
+Range: **300 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

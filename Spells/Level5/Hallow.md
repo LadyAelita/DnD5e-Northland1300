@@ -1,17 +1,17 @@
 ## Hallow
 
-Classes: **Cleric, Warlock (Fiend)**
-Level: **5**
+Classes: **Cleric, Warlock (Fiend)**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Depends on the effect**
+School: **Abjuration**  
+Element: **Depends on the effect**  
 
-Casting Time: **24 hours**
-Duration: **Until dispelled**
-Range: **Touch**
-Components: **V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **24 hours**  
+Duration: **Until dispelled**  
+Range: **Touch**  
+Components: **V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

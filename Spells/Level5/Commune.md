@@ -1,17 +1,17 @@
 ## Commune
 
-Classes: **Cleric, Paladin (Devotion)**
-Level: **5**
+Classes: **Cleric, Paladin (Devotion)**  
+Level: **5**  
 
-School: **Divination**
-Element: **Aether**
+School: **Divination**  
+Element: **Aether**  
 
-Casting Time: **1 minute**
-Duration: **1 minute**
-Range: **Self**
-Components: **V, S, M (incense and a vial of holy or unholy water)**
-Ritual: **True**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **1 minute**  
+Range: **Self**  
+Components: **V, S, M (incense and a vial of holy or unholy water)**  
+Ritual: **True**  
+Concentration: **False**  
 
 ------
 

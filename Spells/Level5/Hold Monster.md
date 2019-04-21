@@ -1,17 +1,17 @@
 ## Hold Monster
 
-Classes: **Bard, Cleric (War), Paladin (Vengeance), Warlock, Wizard**
-Level: **5**
+Classes: **Bard, Cleric (War), Paladin (Vengeance), Warlock, Wizard**  
+Level: **5**  
 
-School: **Enchantment (Compulsion)**
-Element: **Earth**
+School: **Enchantment (Compulsion)**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **90 feet**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **90 feet**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

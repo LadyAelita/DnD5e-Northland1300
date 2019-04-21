@@ -1,17 +1,17 @@
 ## Danse Macabre
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Necromancy (Black)**
-Element: **Death**
+School: **Necromancy (Black)**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **1 hour**
-Range: **60 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **1 hour**  
+Range: **60 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

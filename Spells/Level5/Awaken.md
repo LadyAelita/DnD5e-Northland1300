@@ -1,17 +1,17 @@
 ## Awaken
 
-Classes: **Bard, Druid**
-Level: **5**
+Classes: **Bard, Druid**  
+Level: **5**  
 
-School: **Transmutation**
-Element: **Light**
+School: **Transmutation**  
+Element: **Light**  
 
-Casting Time: **8 hours**
-Duration: **Instantaneous**
-Range: **Touch**
-Components: **V, S, M (a mystic quartz worth at least 1,000 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **8 hours**  
+Duration: **Instantaneous**  
+Range: **Touch**  
+Components: **V, S, M (a mystic quartz worth at least 1,000 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

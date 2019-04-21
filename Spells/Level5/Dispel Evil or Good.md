@@ -1,17 +1,17 @@
 ## Dispel Evil or Good
 
-Classes: **Cleric, Paladin**
-Level: **5**
+Classes: **Cleric, Paladin**  
+Level: **5**  
 
-School: **Abjuration**
-Element: **Water**
+School: **Abjuration**  
+Element: **Water**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **Self**
-Components: **V, S, M (holy or unholy water, which this spell consumes)**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **Self**  
+Components: **V, S, M (holy or unholy water, which this spell consumes)**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

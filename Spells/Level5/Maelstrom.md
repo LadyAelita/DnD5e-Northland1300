@@ -1,17 +1,17 @@
 ## Maelstrom
 
-Classes: **Druid**
-Level: **5**
+Classes: **Druid**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Water**
+School: **Evocation**  
+Element: **Water**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **120 feet**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **120 feet**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

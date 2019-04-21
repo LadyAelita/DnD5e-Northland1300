@@ -1,17 +1,17 @@
 ## Tree Stride
 
-Classes: **Cleric (Nature), Druid, Paladin (Ancients), Ranger**
-Level: **5**
+Classes: **Cleric (Nature), Druid, Paladin (Ancients), Ranger**  
+Level: **5**  
 
-School: **Conjuration (Teleportation)**
-Element: **Earth**
+School: **Conjuration (Teleportation)**  
+Element: **Earth**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 1 minute**
-Range: **Self**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **Self**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

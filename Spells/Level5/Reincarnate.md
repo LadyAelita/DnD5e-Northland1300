@@ -1,17 +1,17 @@
 ## Reincarnate
 
-Classes: **Druid**
-Level: **5**
+Classes: **Druid**  
+Level: **5**  
 
-School: **Necromancy (White)**
-Element: **Light**
+School: **Necromancy (White)**  
+Element: **Light**  
 
-Casting Time: **1 hour**
-Duration: **Instantaneous**
-Range: **Touch**
-Components: **V, S, M (a diamond and a diaspore, each worth at least 500 gp, both of which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 hour**  
+Duration: **Instantaneous**  
+Range: **Touch**  
+Components: **V, S, M (a diamond and a diaspore, each worth at least 500 gp, both of which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

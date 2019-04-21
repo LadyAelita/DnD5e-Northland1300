@@ -1,17 +1,17 @@
 ## Cloudkill
 
-Classes: **Cleric (Death), Druid (Subterranean), Wizard**
-Level: **5**
+Classes: **Cleric (Death), Druid (Subterranean), Wizard**  
+Level: **5**  
 
-School: **Conjuration (Creation)**
-Element: **Death**
+School: **Conjuration (Creation)**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **120 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **120 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

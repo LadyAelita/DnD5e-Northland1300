@@ -1,17 +1,17 @@
 ## Geas
 
-Classes: **Bard, Cleric, Druid, Paladin, Wizard**
-Level: **5**
+Classes: **Bard, Cleric, Druid, Paladin, Wizard**  
+Level: **5**  
 
-School: **Enchantment (Compulsion)**
-Element: **Darkness**
+School: **Enchantment (Compulsion)**  
+Element: **Darkness**  
 
-Casting Time: **1 minute**
-Duration: **28 days**
-Range: **60 feet**
-Components: **V**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **28 days**  
+Range: **60 feet**  
+Components: **V**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

@@ -1,17 +1,17 @@
 ## Enervation
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Necromancy (Black)**
-Element: **Death**
+School: **Necromancy (Black)**  
+Element: **Death**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous / Concentration, up to 1 minute**
-Range: **90 feet / 60 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **Optional**
+Casting Time: **1 action**  
+Duration: **Instantaneous / Concentration, up to 1 minute**  
+Range: **90 feet / 60 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **Optional**  
 
 ------
 

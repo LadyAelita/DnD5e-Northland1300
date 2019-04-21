@@ -1,17 +1,17 @@
 ## Steel Wind Strike
 
-Classes: **Ranger, Wizard**
-Level: **5**
+Classes: **Ranger, Wizard**  
+Level: **5**  
 
-School: **Conjuration (Teleportation)**
-Element: **Air**
+School: **Conjuration (Teleportation)**  
+Element: **Air**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **30 feet**
-Components: **S, M (a metal melee weapon worth at least 0.1 gp)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **30 feet**  
+Components: **S, M (a metal melee weapon worth at least 0.1 gp)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

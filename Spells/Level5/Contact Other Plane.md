@@ -1,17 +1,17 @@
 ## Contact Other Plane
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Divination**
-Element: **Aether**
+School: **Divination**  
+Element: **Aether**  
 
-Casting Time: **1 minute**
-Duration: **1 minute**
-Range: **Self**
-Components: **V**
-Ritual: **True**
-Concentration: **False**
+Casting Time: **1 minute**  
+Duration: **1 minute**  
+Range: **Self**  
+Components: **V**  
+Ritual: **True**  
+Concentration: **False**  
 
 ------
 

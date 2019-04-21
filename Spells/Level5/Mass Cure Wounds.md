@@ -1,17 +1,17 @@
 ## Mass Cure Wounds
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Necromancy (White)**
-Element: **Light**
+School: **Necromancy (White)**  
+Element: **Light**  
 
-Casting Time: **1 action**
-Duration: **Instantaneous**
-Range: **60 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **Instantaneous**  
+Range: **60 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

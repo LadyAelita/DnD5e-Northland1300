@@ -1,17 +1,17 @@
 ## Wall of Light
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Light**
+School: **Evocation**  
+Element: **Light**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **120 feet**
-Components: **V, S, F**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **120 feet**  
+Components: **V, S, F**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

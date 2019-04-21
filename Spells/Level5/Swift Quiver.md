@@ -1,17 +1,17 @@
 ## Swift Quiver
 
-Classes: **Ranger**
-Level: **5**
+Classes: **Ranger**  
+Level: **5**  
 
-School: **Conjuration (Teleportation)**
-Element: **Air**
+School: **Conjuration (Teleportation)**  
+Element: **Air**  
 
-Casting Time: **1 bonus action**
-Duration: **Concentration, up to 1 minute**
-Range: **Touch**
-Components: **V, S, M (a quiver containing at least two pieces of ammunition)**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 bonus action**  
+Duration: **Concentration, up to 1 minute**  
+Range: **Touch**  
+Components: **V, S, M (a quiver containing at least two pieces of ammunition)**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 

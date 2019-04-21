@@ -1,17 +1,17 @@
 ## Immolation
 
-Classes: **Wizard**
-Level: **5**
+Classes: **Wizard**  
+Level: **5**  
 
-School: **Evocation**
-Element: **Fire**
+School: **Evocation**  
+Element: **Fire**  
 
-Casting Time: **1 action**
-Duration: **30 seconds**
-Range: **90 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **30 seconds**  
+Range: **90 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

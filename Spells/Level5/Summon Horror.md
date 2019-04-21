@@ -1,17 +1,17 @@
 ## Summon Horror
 
-Classes: **Warlock, Wizard**
-Level: **5**
+Classes: **Warlock, Wizard**  
+Level: **5**  
 
-School: **Conjuration (Summoning)**
-Element: **Death/Demonology**
+School: **Conjuration (Summoning)**  
+Element: **Death/Demonology**  
 
-Casting Time: **1 action**
-Duration: **1 hour**
-Range: **60 feet**
-Components: **V, S, M (a garnet or a doomstone worth at least 100 gp, which the spell consumes)**
-Ritual: **False**
-Concentration: **False**
+Casting Time: **1 action**  
+Duration: **1 hour**  
+Range: **60 feet**  
+Components: **V, S, M (a garnet or a doomstone worth at least 100 gp, which the spell consumes)**  
+Ritual: **False**  
+Concentration: **False**  
 
 ------
 

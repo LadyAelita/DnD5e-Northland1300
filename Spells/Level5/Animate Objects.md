@@ -1,17 +1,17 @@
 ## Animate Objects
 
-Classes: **Bard, Wizard, Cleric (Forge)**
-Level: **5**
+Classes: **Bard, Wizard, Cleric (Forge)**  
+Level: **5**  
 
-School: **Transmutation**
-Element: **Aether**
+School: **Transmutation**  
+Element: **Aether**  
 
-Casting Time: **1 action**
-Duration: **Concentration, up to 10 minutes**
-Range: **120 feet**
-Components: **V, S**
-Ritual: **False**
-Concentration: **True**
+Casting Time: **1 action**  
+Duration: **Concentration, up to 10 minutes**  
+Range: **120 feet**  
+Components: **V, S**  
+Ritual: **False**  
+Concentration: **True**  
 
 ------
 
