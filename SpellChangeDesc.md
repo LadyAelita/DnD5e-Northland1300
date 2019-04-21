@@ -236,3 +236,7 @@
 * **Insect Plague:** Radius increased from 20 ft to 30 ft
 * **Maelstrom:** Duration increased from 1 min to 10 min; if it's cast on a reservoire of water big enough to contain the entire area, the damage DT is increased from d6 to d12; added scaling of +d6 damage and +5 ft radius / spell slot level; a successful save now halves the damage rather than nullifying it completely
 * **Mass Cure Wounds:** The heal increased from 3d8 + mod to 5d8 + mod. The scaling increased from 1d8 / SL to (1d8 + mod) / SL. Can also target undead now, in which case they can Con save to halve the damage. The dealt damage is true.
+* **Modify Memory:** The target is now dazed on a partial save.
+* **Negative Energy Flood**: Added scaling of +1d12 / SL above 5th. The temporary hit points boost for undead targets is now **the** total, rather than half of it.
+* **Planar Binding:** Duration scaling changed to better fit the N:1300 calendar. The target is now restrained on a partial save. Fey can no longer be a target and the type of the component gemstone depends on the type of the creature.
+* **Rary's Telepathic Bond:** Renamed to *Telepathic Bond*. Added duration scaling.

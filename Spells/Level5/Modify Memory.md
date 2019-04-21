@@ -3,8 +3,8 @@
 Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Wizard**
 Level: **5**
 
-School: **Enchantment**
-Element: **Charm**
+School: **Enchantment (Charm)**
+Element: **Darkness**
 
 Casting Time: **1 action**
 Duration: **Concentration, up to 1 minute**
