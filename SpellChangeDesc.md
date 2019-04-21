@@ -240,3 +240,10 @@
 * **Negative Energy Flood**: Added scaling of +1d12 / SL above 5th. The temporary hit points boost for undead targets is now **the** total, rather than half of it.
 * **Planar Binding:** Duration scaling changed to better fit the N:1300 calendar. The target is now restrained on a partial save. Fey can no longer be a target and the type of the component gemstone depends on the type of the creature.
 * **Rary's Telepathic Bond:** Renamed to *Telepathic Bond*. Added duration scaling.
+* **Shutdown:** Now also affects electronic creatures. Added quadratic scaling for the range or duration (caster's choice) and additional power buffs at 8th and 9th levels.
+* **Swift Quiver:** A thematic change.
+* **Telekinesis:** Added a partial save mechanic (1 round slow).
+* **Wall of Force:** The ways to destroy it are flipped. It can now be dispelled by dispel magic, but cannot be destroyed with a disintegrate spell. Added an area scaling.
+* **Wall of Light:** Damage increased to 5d8.
+* **Wall of Stone:** Added thickness and area scaling.
+* **Wrath of Nature:** Added cube side length scaling of +20 ft / SL above 5th.
