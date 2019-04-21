@@ -11,7 +11,7 @@ Duration: **Instantaneous**
 Range: **120 feet**  
 Components: **V, S**  
 Ritual: **False**  
-Concentration: **False ** 
+Concentration: **False**  
 
 ------
 
