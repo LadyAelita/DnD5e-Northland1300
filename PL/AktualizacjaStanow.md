@@ -23,11 +23,28 @@
 * Głucha istota nie słyszy i automatycznie ponosi porażkę w każdym teście, który wymaga słuchu.
 * **NOWE:** Głucha istota wykonuje rzuty obronne na Zręczność z utrudnieniem.
 
+## Oszołomiony
+
+* Oszołomiona istota musi poruszać się z połową szybkości. W przeciwnym razie musi wykonać rzut obronny na Zręczność o ST 12, lub się przewróci.
+* Oszołomiona istota nie może używać akcji **doskoku**.
+* Oszołomiona istota wykonuje testy **ataku**, testy **Akrobatyki** oraz rzuty obronne na **Siłę** i **Zręczność** z **utrudnieniem**.
+* Oszołomiona istota **zawsze** wykonuje testy koncentracji z **utrudnieniem**, które nie skraca się z przewagą.
+* Ataki przeciwko oszołomionej istocie są wykonywane z **przewagą**.
+
 ## Oślepiony
 
 * Oślepiona istota nie widzi i automatycznie ponosi porażkę w każdym teście, który wymaga wzroku.
 * Testy ataku przeciwko istocie oślepionej są wykonywane z przewagą, a testy ataku istoty oślepionej są utrudnione.
 * **NOWE:** Testy ataku istoty oślepionej przeciwko celowi, który także jest oślepiony, wyjątkowo są wykonywane z utrudnieniem.
+
+## Spowolniony
+
+* Szybkość spowolnionej istoty zostaje zmniejszona o połowę.
+* Spowolniona istota otrzymuje -2 do KP za Unik i rzutów obronnych na Zręczność.
+* Spowolniona istota nie może używać **reakcji**.
+* Spowolniona istota może użyć w swojej turze akcji **lub** akcji dodatkowej - nie może użyć obu w jednej turze.
+* Spowolniona istota nie może wyprowadzić więcej niż jednego ataku w swojej turze.
+* Gdy spowolniona istota rzuca czar, którego rzucenie trwa 1 akcję, ma 50% szansy na to, że efekt zadziała dopiero na początku kolejnej tury tej istoty.
 
 ## Strach
 
@@ -35,7 +52,11 @@ Stan przerażenia został rozdzielony na kilka różnych poziomów, podobnie jak
 
 Jeśli istota **przerwie** (zamiast całkowicie go uniknąć przy pierwszej okazji) dowolny efekt związany ze strachem poprzez udany rzut obronny, nadal będzie **wstrząśnięta** przez jedną rundę, chyba że sukces był krytyczny - wtedy wszystkie poziomy strachu zostają usunięte.
 
-W przypadku krytycznej porażki, poziom strachu wzrasta o 1.
+Jeśli istota **zablokuje** efekt związany ze strachem poprzez sukces w pierwszym rzucie obronnym, jej poziom strachu pozostaje bez zmian, chyba, że sukces był krytyczny - wtedy wszystkie poziomy strachu zostają usunięte.
+
+W przypadku krytycznej porażki, poziom strachu wzrasta o **1**.
+
+Gdy na istotę posiadającą poziomy strachu zostanie nałożony kolejny efekt powodujący strach, poziom strachu rośnie o **1** bądź o tyle, aby osiągnąć stan wspomniany w opisie owego efektu - cokolwiek jest **większe**. Na przykład - efekt wywołujący **panikę** (poziomy 4-5) nałożony na **zlęknioną** postać (poziom 2) doda jej **2 poziomy** strachu. Ten sam efekt nałożony na **spanikowaną** istotę przyznałby jej **1 poziom** strachu.
 
 ### 1: Wstrząśnięty
 
@@ -61,3 +82,4 @@ Jest to stan **frightened** z D&D 5e.
 ### 6: Zdruzgotany
 
 * Zdruzgotana istota jest **bezradna**.
+
