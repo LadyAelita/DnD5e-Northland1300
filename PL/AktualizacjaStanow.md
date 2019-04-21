@@ -2,10 +2,11 @@
 
 ## Bezradny
 
-* Bezradna istota jest **obezwładniona**, a ponadto nie może podejmować akcji ani reakcji.
+* Bezradna istota jest **obezwładniona** - nie może podejmować akcji ani reakcji.
+* Bezradna istota nie może się przemieszczać ani mówić.
 * Bezradna istota ponosi automatyczną porażkę w rzutach obronnych na Siłę i Zręczność.
 * Ataki przeciw bezradnej istocie wykonywane są z przewagą.
-* Wszystkie trafienia przeciwko bezradnej istocie stają się trafieniami krytycznymi.
+* Wszystkie trafienia przeciwko bezradnej istocie wyprowazdzone z odległości **5 stóp** stają się trafieniami krytycznymi.
 * Przeciwko bezradnej istocie można wyprowadzić Coup de Grâce.
 
 ## Leżący
@@ -23,6 +24,22 @@
 * Głucha istota nie słyszy i automatycznie ponosi porażkę w każdym teście, który wymaga słuchu.
 * **NOWE:** Głucha istota wykonuje rzuty obronne na Zręczność z utrudnieniem.
 
+## Niewidzialny
+
+* Niewidzialna istota nie może zostać zauważona bez pomocy specjalnych efektów.
+* Położenie niewidzialnej istoty może zostać wykryte z pomocą śladów jakie ona zostawia bądź dźwięków wydawanych przez nią.
+* **NOWE:** Jeśli istota jest niewidzialna względem drugiej istoty, to jest to traktowane podobnie jak gdyby druga istota była **oślepiona** przy wszelkich próbach interakcji z niewidzialną istotą.
+
+## Obezwładniony
+
+* Obezwładniona istota nie może podejmować **akcji**, ani **reakcji**.
+
+## Ogłuszony
+
+* Ogłuszona istota jest **obezwładniona**, nie może się przemieszczać i mówi bardzo niewyraźnie.
+* Ogłuszona istota ponosi automatyczną porażkę w rzutach obronnych na **Siłę** i **Zręczność**.
+* Testy ataku przeciwko ogłuszonej istocie są wykonywane z **przewagą**.
+
 ## Oszołomiony
 
 * Oszołomiona istota musi poruszać się z połową szybkości. W przeciwnym razie musi wykonać rzut obronny na Zręczność o ST 12, lub się przewróci.
@@ -34,8 +51,22 @@
 ## Oślepiony
 
 * Oślepiona istota nie widzi i automatycznie ponosi porażkę w każdym teście, który wymaga wzroku.
-* Testy ataku przeciwko istocie oślepionej są wykonywane z przewagą, a testy ataku istoty oślepionej są utrudnione.
-* **NOWE:** Testy ataku istoty oślepionej przeciwko celowi, który także jest oślepiony, wyjątkowo są wykonywane z utrudnieniem.
+* Testy ataku przeciwko istocie oślepionej są wykonywane z przewagą, a testy ataku istoty oślepionej **zawsze** są utrudnione.
+* **NOWE:** Utrudnienie testów ataku oślepionej istoty ma **najwyższy priorytet** i **nigdy** nie skraca się z przewagą.
+
+## Sparaliżowany
+
+* **NOWE:** Sparaliżowana istota jest **bezradna**.
+* Sparaliżowana istota nie może wykonać nawet najmniejszego ruchu, w wyniku czego jej pole widzenia jest ograniczone i nie może zostać przez nią zmienione poprzez odwracanie się.
+
+## Spetryfikowany
+
+* Spetryfikowana istota jest zamieniona wraz ze wszystkimi przedmiotami jakie ma na sobie w określoną stałą substancję (zwykle kamień). Jej waga rośnie 10 razy i przestaje się ona starzeć.
+* Spetryfikowana istota jest obezwładniona, a ponadto nie może się przemieszczać, mówić i korzystać ze swojej percepcji.
+* Ataki przeciwko spetryfikowanej istocie są wykonywane z przewagą.
+* Spetryfikowana istota ponosi automatyczną porażkę w rzutach obronnych na **Siłę** i **Zręczność**.
+* Spetryfikowana istota jest **odporna** na wszystkie obrażenia.
+* Spetryfikowana istota jest **niewrażliwa** na **trucizny** i **choroby, **aczkolwiek wszelkie trucizny i choroby już znajdujące się w jej układzie są tylko wstrzymywane, nie leczone.
 
 ## Spowolniony
 
@@ -83,3 +114,24 @@ Jest to stan **frightened** z D&D 5e.
 
 * Zdruzgotana istota jest **bezradna**.
 
+## Uchwycony
+
+* Szybkość uchwyconej istoty przyjmuje wartość 0 i **nie może** **zostać zwiększona** w żaden sposób.
+* **NOWE:** Ataki przeciwko uchwyconej istocie wykonywane są z **przewagą**.
+* Uchwycenie kończy się, gdy chwytająca istota zostanie **obezwładniona** lub przemieszczona efektem poza swój zasięg chwytania.
+
+## Unieruchomiony
+
+* Szybkość unieruchomionej istoty przyjmuje wartość 0 i **nie może** **zostać zwiększona** w żaden sposób.
+* Ataki przeciwko unieruchomionej istocie wykonywane są z **przewagą**. Unieruchomiona istota **zawsze** wykonuje ataki z **utrudnieniem**, które się nie skraca z przewagą z innych źródeł.
+* Unieruchomiona istota wykonuje rzuty obronne na **Zręczność** z utrudnieniem.
+* **NOWE:** Unieruchomiona istota wykonuje testy **Atletyki** i **Akrobatyki** z utrudnieniem.
+
+## Zatruty
+
+* Zatruta istota wykonuje testy **ataku** i **umiejętności** z **utrudnieniem**.
+
+## Zauroczony
+
+* Zauroczona istota nie może atakować źródła zauroczenia lub świadomie obrać go za cel szkodliwych zdolności bądź magicznych efektów.
+* Źródło zauroczenia ma przewagę we wszystkich testach umiejętności związanych ze społeczną interakcją z zauroczoną przez siebie istotą.
