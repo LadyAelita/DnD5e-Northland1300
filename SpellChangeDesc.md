@@ -39,6 +39,10 @@
 | 19d6 | 110 ft/s      |
 | 20d6 | 113 ft/s      |
 
+# Cantrips
+
+* **Guidance**, **Resistance** and **Virtue** can all be cast as reactions now.
+
 # 1st level
 
 + **Absorb Elements** - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type. It also provides a flat 5 absorbtion per additional spell slot level
@@ -55,7 +59,7 @@
     - Wedding: They don't get +2 to AC for the next 7 days, but they get +1 to AC permanently instead (the condition remains the same). This bonus is removed when the marriage ends by whatever means.
 + **Charm Person** - they don't know about having been charmed, unless they succeed on a second Wisdom save at the end of the effect.
 + **Comprehend Languages** - fuck that shit! It's still level 1, BUT now if you want to achieve the actual previous effect, you have to cast it at level 9 - the lower the spell slot level, the more Google Translator cycles will the message go through to make it more unclear. It will also only last 10 minutes and require concentration now.
-+ **Create or Destroy water** - the school is Conjuration (Creation) for create and Transmutation for destroy
++ **Create or Destroy Water** - the school is Conjuration (Creation) for create and Transmutation for destroy
 + **Cure Wounds** - you can try to melee touch attack an undead, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities.
 + **Detect Evil and Good** - changed to Detect Evil *or* Good. Look Updated-Rules.pdf. It's also a ritual now
 + **Ensnaring Strike** - no more concentration
