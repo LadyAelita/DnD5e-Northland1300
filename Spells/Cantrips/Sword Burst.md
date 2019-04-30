@@ -1,6 +1,6 @@
 ## Sword Burst
 
-Classes: **Sorcerer, Warlock, Wizard**  
+Classes: **Warlock, Wizard**  
 Level: **0**  
 
 School: **Illusion (Shadow)**  

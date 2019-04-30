@@ -1,6 +1,6 @@
 ## Mage Hand
 
-Classes: **Bard, Sorcerer, Warlock, Wizard**  
+Classes: **Bard, Warlock, Wizard**  
 Level: **0**  
 
 School: **Conjuration (Creation)**  
