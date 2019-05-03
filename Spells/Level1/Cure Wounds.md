@@ -17,7 +17,7 @@ Concentration: **False**
 
 ### Description
 
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting modifier. This spell has no effect on constructs.
+The target regains a number of hit points equal to 1d8 + your spellcasting modifier. This spell has no effect on constructs.
 
 Alternatively, you can make a ranged spell touch attack against an undead creature. On a hit, it takes the amount of damage it would have been healed for as true damage instead.
 
