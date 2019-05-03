@@ -1,6 +1,6 @@
 ## Resistance
 
-Classes: **Cleric, Druid**  
+Classes: **Cleric, Druid, Sorcerer (Earth Elemental)**  
 Level: **0**  
 
 School: **Abjuration**  

@@ -1,6 +1,6 @@
 ## Produce Flame
 
-Classes: **Druid**  
+Classes: **Druid, Sorcerer (Desire Demon), Sorcerer (Fire Elemental), Sorcerer (Efreeti)**  
 Level: **0**  
 
 School: **Evocation**  

@@ -1,6 +1,6 @@
 ## Word of Radiance
 
-Classes: **Cleric**  
+Classes: **Cleric, Sorcerer (Angel)**  
 Level: **0**  
 
 School: **Evocation**  

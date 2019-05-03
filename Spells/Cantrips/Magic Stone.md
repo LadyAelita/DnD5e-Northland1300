@@ -1,6 +1,6 @@
 ## Magic Stone
 
-Classes: **Druid, Warlock**  
+Classes: **Druid, Sorcerer (Earth Elemental), Warlock**  
 Level: **0**  
 
 School: **Transmutation**  

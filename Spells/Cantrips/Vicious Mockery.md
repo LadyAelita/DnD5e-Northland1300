@@ -1,6 +1,6 @@
 ## Vicious Mockery
 
-Classes: **Bard**  
+Classes: **Bard, Sorcerer (Darkness Elemental)**  
 Level: **0**  
 
 School: **Enchantment (Compulsion)**  

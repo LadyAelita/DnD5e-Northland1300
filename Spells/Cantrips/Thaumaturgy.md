@@ -1,6 +1,6 @@
 ## Thaumaturgy
 
-Classes: **Cleric**  
+Classes: **Cleric, Sorcerer (Roaring Rampage)**  
 Level: **0**  
 
 School: **Transmutation**  
