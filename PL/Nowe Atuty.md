@@ -31,6 +31,14 @@ Wyzwania z jakimi przyszło ci się mierzyć w swoim życiu uczyniły cię bezli
 
 *Źródło: Tal'Dorei Campaign Setting*
 
+## Olśniewająca Kreacja
+
+**Wymagania:** 13 lub więcej Charyzmy.
+
+Gdy nosisz swoje najbardziej wyszukane ubrania, wrażenie jakie wywołują one na twoich wrogach w połączeniu z pewnością siebie jaką ci dodają sprawia, iż trudniej cię trafić. Gdy nosisz ubrania warte przynajmniej 60 sztuk złota, twoja klasa pancerza jest równa **10 + modyfikator ze Zręczności + modyfikator z Charyzmy**.
+
+*Źródło: Middle Finger of Vecna - Feats for Fashionistas*
+
 ## Podwójna Koncentracja
 
 **Wymagania:** Umiejętność rzucenia przynajmniej jednego czaru.
