@@ -168,7 +168,7 @@ You get to pick a color. All of your spells are partially tinted according to th
 
 ### Expanded Spell List
 
-You have access to the **Thaumaturgy** cantrip for free.
+You have access to the **Thaumaturgy** cantrip for free, which counts as a Sorcerer spell for you.
 
 You also gain the option to learn the following spells, which count as part of your Sorcerer spell list:
 
@@ -305,7 +305,7 @@ Otherwise, the DM decides whether you got a vision or not and describes the visi
 
 ### Sixth Sense (1st level)
 
-You can spend **1 Sorcery Point** to cast **Guidance** on yourself.
+You can spend **1 Sorcery Point** to cast **Guidance** on yourself as a Sorcerer spell.
 
 ### Déjà Vu (6th level)
 
