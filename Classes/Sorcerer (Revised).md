@@ -8,15 +8,15 @@ Your spells are of **magical** source.
 
 You choose one type of creature as your ancestor.  You later gain features depending on the selected type:
 
-* fire elemental,
-* earth elemental,
-* angel,
-* darkness elemental,
-* djinni,
-* air elemental,
-* water elemental,
-* efreeti,
-* desire demon.
+- fire elemental,
+- earth elemental,
+- angel,
+- darkness elemental,
+- djinni,
+- air elemental,
+- water elemental,
+- efreeti,
+- desire demon.
 
 #### Otherworldly Dialect
 
@@ -61,7 +61,7 @@ You gain the option to learn the following spells, which count as part of your S
 | Ancestor               | Spells                                                       |
 | ---------------------- | ------------------------------------------------------------ |
 | **Fire elemental**     | Produce Flame (0), Searing Smite (1), Flame Blade (2), Heat Metal (2), Elemental Weapon (only *fire*) (3), Fire Storm (7). |
-| **Earth elemental**    | Magic Stone (0), Resistance (0), Thunderous Smite (1), Meld into Stone (3), Dominate Beast (4), Bones of the Earth (6), Earthquake (8). |
+| **Earth elemental**    | Magic Stone (0), Resistance (0), Thunderous Smite* (1), Meld into Stone (3), Dominate Beast* (4), Bones of the Earth (6), Earthquake (8). |
 | **Angel**              | Spare the Dying (0), Word of Radiance (0), Cure Wounds (1), Detect Good or Evil (1), Guiding Bolt (1), Beacon of Hope (3), Daylight (3), Dawn (5). |
 | **Darkness elemental** | Vicious Mockery (0), Detect Poison and Disease (1), Soil Food and Drink (1), Elemental Weapon (only *acid*) (3), Insect Plague (5), Blade Barrier (6). |
 | **Djinni**             | Enchance Ability (2), Commune (5).                           |
@@ -69,6 +69,8 @@ You gain the option to learn the following spells, which count as part of your S
 | **Water elemental**    | Create or Destroy Water (1), Calm Emotions (2), Elemental Weapon (only *cold*) (3), Water Walk (3), Maelstrom (5), Tsunami (8). |
 | **Efreeti**            | Produce Flame (0), Bane (1), Glibness (8).                   |
 | **Desire demon**       | Produce Flame (0), Detect Good or Evil (1), Inflict Wounds (1), Enthrall (2), Compulsion (4), Dominate Beast (4), Glibness (8). |
+
+<sup>*If you learn *Thunderous Smite* or *Dominate Beast* as a descendant of an Earth Elemental, they count as **Earth** spells for you, rather than Air.</sup>
 
 #### Expanded Metamagic Choice
 
@@ -174,6 +176,7 @@ You also gain the option to learn the following spells, which count as part of y
 
 | Circle | Spells             |
 | ------ | ------------------ |
+| 1st    | Hellish Rebuke     |
 | 5th    | Maelstrom          |
 | 7th    | Fire Storm         |
 | 8th    | Earthquake         |
@@ -185,36 +188,42 @@ You get **advantage** on **Charisma** checks. You get **disadvantage** on **Comp
 
 Whenever your characters feels strong emotion outside of a fight, the DM might prompt you to make a **Composure** check. 
 
-On a failure, roll a d12. The following effect occurs, depending on the result:
+On a failure, roll a d20. The following effect occurs, depending on the result:
 
-| d12   | Consequence                                                  |
+| d20   | Consequence                                                  |
 | ----- | ------------------------------------------------------------ |
 | 1     | You cast **Fireball** centered on yourself.                  |
 | 2     | You cast **Sleet Storm** centered on yourself, as your emotions slowly build up in your voice. |
 | 3     | You cast **Shatter** centered on a fragile object of your choice within 60 ft. |
 | 4     | You cast **Shatter** centered on yourself.                   |
 | 5     | You cast **Cold Nova** centered on yourself. If your character is afraid, cast **Burning Hands** instead, targeted toward the source of the fear. |
-| 6-7   | You cast **Thunderwave** centered on yourself.               |
-| 8-9   | You cast **Thunderclap**. If your character is afraid, cast **Shield** instead. |
-| 10-12 | You cast **Thaumaturgy** up to **d4** times over the next 30 seconds, causing a different effect each time. |
+| 6     | You cast **Hellish Rebuke** on the creature that has triggered those emotions in you. |
+| 7     | You cast **Thunderwave** centered on yourself.               |
+| 8     | You set yourself on **supernatural fire**.                   |
+| 9-10  | The air around you is progressively becoming **uncomfortably hot**. The liquids within 30 feet of you visibly begin to **boil**. Eventually, everyone in close vicinity to you starts to take small amounts of supernatural **fire damage** if they aren't moving. Moreover, if the creature that has triggered your emotions is wearing metal gear, you cast **Heat Metal** on them. |
+| 11-12 | The air around you is progressively becoming **uncomfortably cold**. All the flames go off and the liquids within 30 feet of you visibly **freeze**. Eventually, everyone in close vicinity to you starts to take small amounts of supernatural **cold damage** if they aren't moving. |
+| 13    | You cast multiple instances of **Control Winds**, creating outward gusts from your location in all directions. The gusts strengthen as your emotions slowly build up in your voice. |
+| 14-15 | You cast **Cause Fear** on everyone that is paying attention to you. |
+| 16    | You cast **Thunderclap**. If your character is afraid, cast **Shield** instead. |
+| 17-20 | You cast **Thaumaturgy** up to **d4** times over the next 30 seconds, causing a different effect each time. |
 
 On a **critical failure**, you additionally cast **Control Weather**, causing it to rain heavily and storm, with the effect taking place almost immediately.
 
-You don't need to know the specified spells in order for them to be cast through this feature. Moreover, whenever you are forced to cast a spell this way, you don't lose your spell slots and don't need to use any components. If the spell deals damage, it doesn't hurt *you*.
+You don't need to know the specified spells in order for them to be cast through this feature. Moreover, whenever you are forced to cast a spell this way, you don't lose your spell slots and don't need to use any components - in fact you specifically do not use neither verbal nor somatic components. If the spell deals damage, it doesn't hurt *you*.
 
-You can voluntarily fail the check, in which case you are free to select which spells are released by your character as a manifestation of their rage. If the DM rules your selection inappropriate (for example: *mage armor* or *cure wounds* (unless targeted at an undead) doesn't quite represent a sudden urge to cause destruction), they might have you roll the d12 instead, except you get to roll twice and select either result.
+You can voluntarily fail the check, in which case you are free to select which spells are released by your character as a manifestation of their rage. If the DM rules your selection inappropriate (for example: *mage armor* or *cure wounds* (unless targeted at an undead) doesn't quite represent a sudden urge to cause destruction), they might have you roll the d20 instead, except you get to roll twice and select either result.
 
-### Unleash (1st level)
+### Unleash (1st level) 
 
 Once per day, as a bonus action, you can enter a rage-like state for 1 minute. You cannot use this feature if you have used *Suppress* earlier that same day.
 
 While in this state:
 
-* You gain your level as temporary hit points.
-* Your spells are of **supernatural** source, meaning they ignore close to all resistances and immunities. They are now *completely* tinted with your Exceptional color.
-* All the numerical values of your spells' effects represented by dice rolls are increased by one die tier (for example: **d6** instead of **d4**).
-* You *cannot* cast spells of the **Enchantment (Charm)** sub-school.
-* You *cannot* target another creature with a buffing spell, be it directly or indirectly (through area-of-effect).
+- You gain your level as temporary hit points.
+- Your spells are of **supernatural** source, meaning they ignore close to all resistances and immunities. They are now *completely* tinted with your Exceptional color.
+- All the numerical values of your spells' effects represented by dice rolls are increased by one die tier (for example: **d6** instead of **d4**).
+- You *cannot* cast spells of the **Enchantment (Charm)** sub-school.
+- You *cannot* target another creature with a buffing spell, be it directly or indirectly (through area-of-effect).
 
 After this state ends, you gain an exhaustion level and additionally cannot use *Suppress* for the rest of the day.
 
@@ -224,12 +233,12 @@ Once per day, as a bonus action, or when the effect of *A Hail of Emotions* is a
 
 If you have used that feature, until the next long rest:
 
-* You are unusually calm, and you have **advantage** on all **Composure** checks.
-* You are **proficient** in **Wisdom** saving throws.
-* You use **Wisdom** as your spellcasting ability rather than Charisma.
-* All of the effects of *A Hail of Emotions* are disabled.
-* You *cannot* use metamagic modifiers other than *Careful*, *Extended*, *Quiet*, *Subtle*.
-* You *cannot* use *Unleash*.
+- You are unusually calm, and you have **advantage** on all **Composure** checks.
+- You are **proficient** in **Wisdom** saving throws.
+- You use **Wisdom** as your spellcasting ability rather than Charisma.
+- All of the effects of *A Hail of Emotions* are disabled.
+- You *cannot* use metamagic modifiers other than *Careful*, *Extended*, *Quiet*, *Subtle*.
+- You *cannot* use *Unleash*.
 
 ### Remarkable Willpower (6th level)
 
@@ -241,13 +250,13 @@ You can now combine two metamagic modifiers together. If you are under the effec
 
 You can also learn two of the following additional metamagic modifiers, which can only be used while under the effect of the *Unleash* feature.
 
-* **Amplified Spell (2):** Requires *Empowered Spell*. Your spell's numerical values are increased by **50%**.
+- **Amplified Spell (2):** Requires *Empowered Spell*. Your spell's numerical values are increased by **50%**.
 
-* **Chained Spell (X + Y):** Requires *Twinned Spell*. Your one targeted spell is **twinned** **Y** times, with the range condition being determined with respect to the previous target. **X** is the level of the spell slot with which the spell is being cast, 1 for cantrips.
+- **Chained Spell (X + Y):** Requires *Twinned Spell*. Your one targeted spell is **twinned** **Y** times, with the range condition being determined with respect to the previous target. **X** is the level of the spell slot with which the spell is being cast, 1 for cantrips.
 
-* **Heightened Spell (1 + X):** Your spell is treated as if it was cast at a spell slot X levels higher.
+- **Heightened Spell (1 + X):** Your spell is treated as if it was cast at a spell slot X levels higher.
 
-* **Instilled Spell (1 + X):** You add a random effect to your spell, that is determined by a d10 roll. You add +X to the result of this roll.
+- **Instilled Spell (1 + X):** You add a random effect to your spell, that is determined by a d10 roll. You add +X to the result of this roll.
 
   | d10  | Additional effect                                            |
   | ---- | ------------------------------------------------------------ |
@@ -259,9 +268,9 @@ You can also learn two of the following additional metamagic modifiers, which ca
   | 9    | Your spell is **maximized**.                                 |
   | 10   | Your spell's damage **strikes critically**. If your spell doesn't deal damage, it's **maximized** instead. |
 
-* **Maximized Spell (3):** Requires Empowered Spell. All numerical values of the spell represented by dice rolls assume their maximum possible values.
+- **Maximized Spell (3):** Requires Empowered Spell. All numerical values of the spell represented by dice rolls assume their maximum possible values.
 
-* **Reckless Spell (1):** Can't be combined with *Careful Spell*. When rolling damage for the spell, you roll an additional damage die. If the spell is a spell attack, you have disadvantage on the attack roll, and if the spell requires a saving throw, the DC is decreased by 2.
+- **Reckless Spell (1):** Can't be combined with *Careful Spell*. When rolling damage for the spell, you roll an additional damage die. If the spell is a spell attack, you have disadvantage on the attack roll, and if the spell requires a saving throw, the DC is decreased by 2.
 
 ### Perfect Storm (20th level)
 
