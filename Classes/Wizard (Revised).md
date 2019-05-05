@@ -1,6 +1,8 @@
-# **Wizard**'s spellbook
+# Wizard (Revised)
 
-## Adding spells
+## **Wizard**'s spellbook
+
+### Adding spells
 
 You can copy spells from scrolls and other spellbooks, regardless who wrote them.
 
