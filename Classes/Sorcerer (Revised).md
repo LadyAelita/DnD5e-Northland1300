@@ -61,7 +61,7 @@ You gain the option to learn the following spells, which count as part of your S
 | Ancestor               | Spells                                                       |
 | ---------------------- | ------------------------------------------------------------ |
 | **Fire elemental**     | Produce Flame (0), Searing Smite (1), Flame Blade (2), Heat Metal (2), Elemental Weapon (only *fire*) (3), Fire Storm (7). |
-| **Earth elemental**    | Magic Stone (0), Resistance (0), Thunderous Smite* (1), Meld into Stone (3), Dominate Beast* (4), Bones of the Earth (6), Earthquake (8). |
+| **Earth elemental**    | Magic Stone (0), Resistance (0), Thunderous Smite (1), Meld into Stone (3), Dominate Beast (4), Bones of the Earth (6), Earthquake (8). |
 | **Angel**              | Spare the Dying (0), Word of Radiance (0), Cure Wounds (1), Detect Good or Evil (1), Guiding Bolt (1), Beacon of Hope (3), Daylight (3), Dawn (5). |
 | **Darkness elemental** | Vicious Mockery (0), Detect Poison and Disease (1), Soil Food and Drink (1), Elemental Weapon (only *acid*) (3), Insect Plague (5), Blade Barrier (6). |
 | **Djinni**             | Enchance Ability (2), Commune (5).                           |
@@ -69,8 +69,6 @@ You gain the option to learn the following spells, which count as part of your S
 | **Water elemental**    | Create or Destroy Water (1), Calm Emotions (2), Elemental Weapon (only *cold*) (3), Water Walk (3), Maelstrom (5), Tsunami (8). |
 | **Efreeti**            | Produce Flame (0), Bane (1), Glibness (8).                   |
 | **Desire demon**       | Produce Flame (0), Detect Good or Evil (1), Inflict Wounds (1), Enthrall (2), Compulsion (4), Dominate Beast (4), Glibness (8). |
-
-<sup>*If you learn *Thunderous Smite* or *Dominate Beast* as a descendant of an Earth Elemental, they count as **Earth** spells for you, rather than Air.</sup>
 
 #### Expanded Metamagic Choice
 
@@ -197,7 +195,6 @@ On a failure, roll a d12. The following effect occurs, depending on the result:
 | 4     | You cast **Shatter** centered on yourself.                   |
 | 5     | You cast **Cold Nova** centered on yourself. If your character is afraid, cast **Burning Hands** instead, targeted toward the source of the fear. |
 | 6-7   | You cast **Thunderwave** centered on yourself.               |
-|       | You cast multiple instances of **Control Winds**, creating outward gusts from your location in all directions, as your emotions slowly build up in your voice. |
 | 8-9   | You cast **Thunderclap**. If your character is afraid, cast **Shield** instead. |
 | 10-12 | You cast **Thaumaturgy** up to **d4** times over the next 30 seconds, causing a different effect each time. |
 
