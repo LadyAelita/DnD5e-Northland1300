@@ -40,14 +40,14 @@ Narzędzia często nie są pospolicie dostępne w sklepie, zazwyczaj trzeba je z
 
 #### Ceny rynkowe
 
-| Profesja                  | Rodzaj                | Kluczowe elementy zestawu                                    | Cena narzędzi  | Cena pracowni*  |
-| ------------------------- | --------------------- | ------------------------------------------------------------ | -------------- | --------------- |
-| **Alchemik**              | Aparatura alchemiczna | Szklane zlewki, metalowy statyw do zlewek, szklana bagietka, moździerz, kilof alchemiczny, palnik, retorta, alembik, bukłak z oczyszczoną wodą, sakiewka z generycznymi składnkiami, takimi jak: sól, siarka, sproszkowane żelazo i różnej maści zioła. | 50 sztuk złota | 500 sztuk złota |
-| **Jubiler**               | Narzędzia jubilerskie | Piła jubilerska, młotek, szczypce, zestaw pilników igiełkowych, zestaw pęset. | 25 sztuk złota | 500 sztuk złota |
-| **Kowal**, **Płatnerz**   | Narzędzia kowalskie   | Młot kowalski, szczypce, węgiel, łachmany, osełka, dłuto, nóż, niewielka piła. | 20 sztuk złota | 500 sztuk złota |
-| **Łuczarz**               | Narzędzia łuczarza    | Zestaw noży, zestaw dłut, niewielka piła.                    | 5 sztuk złota  | 100 sztuk złota |
-| **Skórnik**               | Narzędzia skórnicze   | Nóż, mały drewniany młotek, nożyk do zaoblania krawędzi skóry, szydło, igły, nici, radełko szewskie, kołek do wykańczania krawędzi, kawałki skóry, nożyk do wydrążania rowków pod szwy. | 15 sztuk złota | 500 sztuk złota |
-| **Zaklinacz (specjalne)** | -                     | Dostęp do czaru *Transfuzja energii*.                        | -              | -               |
+| Profesja                  | Rodzaj                | Kluczowe elementy zestawu                                    | Cena narzędzi  | Cena pracowni*   |
+| ------------------------- | --------------------- | ------------------------------------------------------------ | -------------- | ---------------- |
+| **Alchemik**              | Aparatura alchemiczna | Szklane zlewki, metalowy statyw do zlewek, szklana bagietka, moździerz, kilof alchemiczny, palnik, retorta, alembik, bukłak z oczyszczoną wodą, sakiewka z generycznymi składnkiami, takimi jak: sól, siarka, sproszkowane żelazo i różnej maści zioła. | 50 sztuk złota | 500 sztuk złota  |
+| **Jubiler**               | Narzędzia jubilerskie | Piła jubilerska, młotek, szczypce, zestaw pilników igiełkowych, zestaw pęset. | 25 sztuk złota | 500 sztuk złota  |
+| **Kowal**, **Płatnerz**   | Narzędzia kowalskie   | Młot kowalski, szczypce, węgiel, łachmany, osełka, dłuto, nóż, niewielka piła. | 20 sztuk złota | 500 sztuk złota  |
+| **Łuczarz**               | Narzędzia łuczarza    | Zestaw noży, zestaw dłut, niewielka piła.                    | 5 sztuk złota  | 100 sztuk złota  |
+| **Skórnik**               | Narzędzia skórnicze   | Nóż, mały drewniany młotek, nożyk do zaoblania krawędzi skóry, szydło, igły, nici, radełko szewskie, kołek do wykańczania krawędzi, kawałki skóry, nożyk do wydrążania rowków pod szwy. | 15 sztuk złota | 500 sztuk złota  |
+| **Zaklinacz (specjalne)** | Narzędzia zaklinacza  | Metalowe statywy - zarówno stalowe jak i adamantowe, szczypce, lustra o różnych typach soczewek, zestaw drutów. | 500 szt. złota | 5000 sztuk złota |
 
 <sup>*Cena pracowni nie zawiera podstawowej ceny wzniesienia samego budynku, która może wahać się w granicach od 2000 do 10000 sztuk złota, w zależności od jakości oraz od lokalnych podatków.</sup>
 
@@ -121,6 +121,138 @@ Podstawowe koszta stworzenia pancerza tego typu wynoszą **25 sztuk złota** na 
 Nie trudno było Zygfrydowi dojść do wniosku, że jeśli zamiast płacić komuś innemu za pracę, poświęci swój wolny czas aby wykonać ją samodzielnie, zaoszczędzi. Opłacało mu się nawet przepłacić kupując surowce na zapas, gdyż zakup dużej ilości towaru za jednym razem pozwala zaoszczędzić na transporcie, a to co zostanie może zostać wykorzystane na wytworzenie innych przedmiotów.
 
 Ostatecznie Zygfryd zaoszczędził **7,5 sztuk złota**. Może się to wydawać niewielką sumą, ale dzięki temu Zygfryd będzie w stanie w trakcie swej nadchodzącej podróży bez problemu zakwaterować się w porządnej gospodzie i zjeść wysokiej jakości posiłek, utrzymując taki tryb życia przez nawet i **dwa miesiące**.
+
+## Zaklinanie przedmiotów
+
+### Koszty zaklinania przedmiotu
+
+Zaklinanie przedmiotu podobnie jak inne typy rzemiosła, wymaga **zasobów** oraz **pracy**.
+
+Najważniejszym zasobem są **kamienie szlachetne**. Wartość kamienia szlachetnego, wyrażona w karatach, zależy od rzędu zaklęcia (od 1. do 3.), które chce się uzyskać.
+
+| Rząd zaklęcia | Wartość kamienia szlachetnego | Rzadkość uzyskanych przedmiotów  | Wydana komórka na czar |
+| ------------- | ----------------------------- | -------------------------------- | ---------------------- |
+| 1             | 10 karatów                    | Zwykły, Niezwykły                | 3                      |
+| 2             | 20 karatów                    | Niezwykły, Rzadki, Bardzo rzadki | 6                      |
+| 3             | 50 karatów                    | Rzadki, Bardzo rzadki, Epicki    | 9                      |
+
+Różne rodzaje przedmiotów mogą posiadać różną ilość kieszeni na kamienie szlachetne. Niektóre przedmioty nie posiadają ich wcale - takie przedmioty nie mogą zostać zaklęte.
+
+**Broń**, **biżuteria** i **amunicja** wymagają **jednego** kamienia dla każdego ulepszenia.
+
+**Pancerz** wymaga **trzech** kamieni dla każdego ulepszenia.
+
+### Trwałość zaklęcia
+
+Zaklinanie przedmiotów **na stałe** to bardzo trudna sztuka, która wymaga ogromnej ilości włożonej pracy. W niektórych przypadkach, zaklinacz musiałby spędzić niemalże całe swoje życie, aby uczynić przedmiot magicznym. Tego typu magiczne przedmioty są warte bardzo wiele, jednak z powodu długiego czasu oczekiwania, tworzenie ich jest często niepraktyczne dla poszukiwaczy przygód. Nawet i wyspecjalizowani zaklinacze całkowicie oddani swemu rzemiosłu, w przypadku otrzymania takiego typu zamówienia, podpisują długoterminowy kontrakt, w efekcie stając się regularnym pracownikiem swojego klienta, otrzymującym comiesięczne wynagrodzenie.
+
+Umagicznienie przedmiotu **tymczasowo** jest jednak o wiele prostsze, a przynajmniej trwa znacznie krócej. Tego typu przedmioty nie są pożądane na rynku, więc nadają się bardziej do użytku osobistego niż na sprzedaż, aczkolwiek w czasie wojny lub w innych kryzysowych sytuacjach, usługi zaklinaczy, którzy są w stanie nałożyć tego typu tymczasowe zaklęcia na przedmioty, są nadal wyosko cenione.
+
+Czas utrzymywania się tymczasowego zaklęcia jest **proporcjonalny** do **wkładu pracy**, z wyjątkiem zaklęć trwających **1 dzień** - tego typu efekty można nałożyć na przedmiot w ramach **1 akcji**, pod warunkiem, iż postać nie znajduje się w trudnych warunkach.
+
+### Wartość włożonej pracy
+
+Podczas gdy wartość dnia pracy przeciętnego rzemieślnika rośnie liniowo wraz ze wzrostem jego umiejętności, wartość dnia pracy zaklinacza zamiast tego rośnie wykładniczo. Ponadto, zależy ona od modyfikatora z **Czaroznawstwa** zamiast Rzemiosła.
+
+| Modyfikator z Czarnoznawstwa | Wartość pracy [sztuki złota / 10 godzin] |
+| ---------------------------- | ---------------------------------------- |
+| **0 lub ujemny**             | 0                                        |
+| **+1**                       | 1                                        |
+| **+2**                       | 1                                        |
+| **+3**                       | 1                                        |
+| **+4**                       | 2                                        |
+| **+5**                       | 3                                        |
+| **+6**                       | 4                                        |
+| **+7**                       | 6                                        |
+| **+8**                       | 9                                        |
+| **+9**                       | 13                                       |
+| **+10**                      | 19                                       |
+| **+11**                      | 27                                       |
+| **+12**                      | 40                                       |
+| **+13**                      | 60                                       |
+| **+14**                      | 80                                       |
+| **+15**                      | 120                                      |
+| **+16**                      | 170                                      |
+| **+17**                      | 240                                      |
+| **+18**                      | 350                                      |
+| **+19**                      | 500                                      |
+| **+20**                      | 700                                      |
+| **+21**                      | 1100                                     |
+| **+22**                      | 1500                                     |
+| **+23**                      | 2200                                     |
+| **+24**                      | 3100                                     |
+| **+25**                      | 4500                                     |
+
+### Nieznane zaklęcia
+
+Począkowo, postacie graczy nie są zaznajomione z **żadnymi** z dostępnych efektów, jakie mogą nałożyć na przedmiot, zaklinając go magią z danego kamienia szlachetnego. W takiej sytuacji, owe zaklęcie jest wybierane **losowo**.
+
+Wymagany wkład pracy dla danych ulepszeń może się znacznie różnić, nawet w obrębie tego samego rzędu. Z tego powodu, tabele przedstawione w tym dokumencie zawierają **przedziały**, w jakich może znajdować się ilość pracy wymagana przez zaklęcia dostępne dla danej kombinacji rzędu i kamienia szlachetnego. Pozwala to graczowi na pewnego rodzaju oszacowanie czasu pracy, ale jest to wskazanie niezwykle niedokładne.
+
+Po zgromadzeniu odpowiednich zasobów, odczytaniu wartości swojego 10-godznniego dnia pracy przy zaklinaniu oraz przedziału pracy wymaganej dla danego zaklęcia, postać rozpoczyna proces, rzucając czar *Nasycenie Przedmiotu* na przedmiot, który ma zostać zaklęty. Tak długo jak postać podtrzymuje koncentrację nad owym czarem, stopniowo wkłada pracę (podobnie jak zwykły rzemieślnik), przybliżając się do ukończenia całego procesu zaklinania.
+
+Za każym razem, gdy postać rzuca *Nasycenie Przedmiotu* w tym celu, niezależnie czy celem rozpoczęcia, czy kontynuacji procesu zaklinania, musi wykonać test **Czarnoznawstwa** o ST odczytanym z tabeli, zależnym od kamienia szlachetnego użytego jako źródło energii.
+
+**Sukces** w teście **Czarnoznawstwa** na początku rzucania *Nasycenia Przedmiotu* oznacza włożenie odpowiedniej dla poświęconego czasu ilości pracy. **Porażka** oznacza brak postępów. **Krytyczna porażka** skutkuje uszkodzeniem wykorzystywanych kamieni, które zajmują dostępne kieszenie w danym przedmiocie, nie nadając mu jednak żadnych specjalnych właściwości, co czyni przedmiot niemożliwym do ponownego zaklęcia, a kamienie pozbawia ich magicznej energii. **Krytyczny sukces** oznacza 5x większy efektywny wkład pracy.
+
+Gdy postaci uda się pomyślnie włożyć ilość pracy stanowiącą **minimalną** wymaganą **wartość pracy** z **wcześniej odczytanego przedziału**, postać rzuca **k6** celem wylosowania zaklęcia (MG posiada tabelę dostępnych ulepszeń). Od tego momentu jest w stanie już z większą dokładnością oszacować ile pozostała część procesu jeszcze może potrwać dla tego konkretnego ulepszenia - MG opisuje ową ilość czasu według własnego uznania.
+
+Po zakończeniu, postać nadal nie zna dokładnych efektów uzyskanego przedmiotu - może je poznać z użyciem, na przykład, czaru *Identyfikacji*, czy *Analizy Dweomeru*.
+
+### Odkrywanie zaklęć
+
+Postać może podjąć próbę zbadania części dostępnych ulepszeń, jakie mogą wyniknąć z danej kombinacji kamienia szlachetnego, jego wartości w karatach i typu zaklinanego przedmiotu.
+
+Postać może badać **tylko jeden** konkretny przypadek **jednocześnie**. Po zakończeniu procesu badawczego z dowolnym rezultatem, postać **nie może rozpocząć kolejnego badania** aż do momentu ukończenia **długiego odpoczynku**.
+
+Celem przeprowadzenia badania, zaklinacz musi rzucić *Analizę Dweomeru* na zarówno przedmiot jak i kryształy, co rozpocznie proces podobny do procesu zaklinania, jednak o innej ilości pracy jaką trzeba włożyć i nie wymagający codziennych testów **Czaroznawstwa**. Zamiast tego, postać wykonuje ten test **na samym końcu** procesu, celem sprawdzenia, czy udało się czegoś dowiedzieć.
+
+**Sukces** w owym teście daje postaci wiedzę o **2** losowych różnych od siebie zaklęciach powiązanych z daną kombinacją. **Porażka** nie daje żadnych informacji. **Krytyczna porażka** kończy się gwałtowną eksplozją badanego kryształu, zwykle nieszkodliwą, jedynie szokującą i chaotyczną. **Krytyczny sukces** usuwa **czas odnowienia** tej czynności i pozwala kontynuować badanie **kolejnego** przypadku, **nie przerywając koncentracji** na *Analizie Dweomeru* i tym samym nie wymagając wydania kolejnej komórki na czar.
+
+Badany kryształ **traci swoje magiczne właściwości** na zakończenie procesu, chyba, że miał miejsce **krytyczny sukces** lub **sukces**, w którym ST został przebity o **5 lub więcej**.
+
+### Znane zaklęcia
+
+Jeśli postać ma wiedzę o konkretnym zaklęciu, ma także możliwość nałożenia tego konkretnego ulepszenia, zamiast liczyć na los.
+
+Proces zaklinania przedmiotu celem uzyskania ulepszenia **znanego** postaci przebiega tak samo jak w przypadku nieznanych efektów, z tą różnicą, iż postać nie losuje efektu i zna **dokładny** wymagany wkład pracy **od samego początku**.
+
+### Modyfikowanie procesów
+
+#### Modyfikowanie procesu zaklinania
+
+Podobnie jak w przypadku innych procesów rzemieślniczych - korzystanie z podstawowego zestawu narzędzi **w trudnych warunkach** powoduje **utrudnienie** testów, natomiast korzystanie z w pełni wyposażonej, dedykowanej **pracowni**, daje **przewagę**.
+
+Ponadto, *Nasycenie Przedmiotu* może być rzucane jako rytuał, dzięki czemu nie zostanie wykorzystana komórka na czar. Jednakże w takiej sytuacji powiązany test **Czaroznawstwa** wykonywany na początku koncentracji nad czarem jest **utrudniony**. 
+
+Jeśli twoja postać nie posiada wiedzy o kamieniu z którego korzysta (brak powiązanej **karty wiedzy**), także otrzymuje **utrudnienie** w testach powiązanych z nim.
+
+Jeśli posiadasz utrudnienia z różnych powodów, owe utrudnienia się ze sobą **łączą** (rzuć **1 + tyle razy ile masz utrudnień** i wybierz najgorszy wynik).
+
+#### Modyfikowanie procesu badania
+
+Jeśli twoja postać z dowolnego powodu bardzo dobrze zna badany typ kryształu, na przykład posiadając odpowiednią **kartę wiedzy**, test **Czaroznawstwa** na zakończenie badania wykonywany jest z **przewagą**. Jeśli posiadasz już przewagę z tytułu korzystania z wyposażonej pracowni, owe przewagi się ze sobą **łączą** (rzuć **trzy razy** i wybierz największy wynik).
+
+Jeśli ostatniego dnia badań rzucisz *Analizę Dweomeru* jako **rytuał** i test się powiedzie, tylko **jedno** ulepszenie zostanie odkryte zamiast dwóch.
+
+### Losowe cechy
+
+Proces zaklinania przedmiotu w pewnych sytuacjach może się powieść wyjątkowo dobrze, lub wyjątkowo źle. Pomyślnie zaklęte przedmioty mają niski procent (od 1 do 10 - im wyższy rząd tym większa szansa) na posiadanie **dodatkowych**, **losowych cech**. Cechy te mogą być pożyteczne, trywialne, lub szkodliwe, a nawet uczynić przedmiot **przeklętym**.
+
+Rzut na losowe cechy przedmiotów wykonywany jest przez MG za ekranem, a gracze nie są informowani o rezultacie, dopóki nie zbadają przedmiotu (dla pozytywnych cech) lub dopóki cecha nie zostanie zaobserwowana przez ich postacie w akcji (dla zarówno pozytywnych jak i negatywnych cech).
+
+## Wartość przedmiotów w zależności od rzadkości
+
+Podane wartości są jedynie szacowanymi i typowymi wartościami - konkretne przedmioty mogą mieć dowolną wartość.
+
+| Rzadkość      | Szacowany poziom postaci | Typowa premia | Wartość                      |
+| ------------- | ------------------------ | ------------- | ---------------------------- |
+| Przeciętny    | 1. lub wyższy            | -             | 0 - 100 sztuk złota          |
+| Zwykły        | 1. lub wyższy            | -             | 101 - 500 sztuk złota        |
+| Niezwykły     | 5. lub wyższy            | +1            | 501 - 5 000 sztuk złota      |
+| Rzadki        | 10. lub wyższy           | +2            | 5 001 - 50 000 sztuk złota   |
+| Bardzo rzadki | 16. lub wyższy           | +3            | 50 001 - 500 000 sztuk złota |
+| Epicki        | 20. lub wyższy           | +4            | 500 001+ sztuk złota         |
 
 ## Koszty wytwarzania
 
@@ -205,10 +337,10 @@ Każda konkretna mikstura wymaga innych składników, innego wkładu pracy i inn
 
 #### Amunicja
 
-| Przedmiot  | Wymagane surowce               | Wkład pracy       | ST   |
-| ---------- | ------------------------------ | ----------------- | ---- |
-| Strzała    | 0,03 lb drewna; *grot strzały* | 0,01 sztuki złota | 10   |
-| Grot bełtu | 0,06 lb drewna; *grot bełtu*   | 0,01 sztuki złota | 10   |
+| Przedmiot | Wymagane surowce               | Wkład pracy       | ST   |
+| --------- | ------------------------------ | ----------------- | ---- |
+| Strzała   | 0,03 lb drewna; *grot strzały* | 0,01 sztuki złota | 10   |
+| Bełt      | 0,06 lb drewna; *grot bełtu*   | 0,01 sztuki złota | 10   |
 
 ### Wyroby płatnerskie
 
@@ -232,6 +364,58 @@ Każda konkretna mikstura wymaga innych składników, innego wkładu pracy i inn
 | Metalowa tarcza  | 15 lb stali             | 15 sztuk złota | 15   |
 
 <sup>*Płatnerze zazwyczaj zaopatrują się w większe ilości stali na wykonanie pancerzy półpłytowych i płytowych, gdyż istnieje duża szansa popełnienia błędu.</sup>
+
+### Zaklęte przedmioty
+
+#### Badanie kamieni podstawowych
+
+| Rząd zaklęcia | Kamień szlachetny       | Wkład pracy      | ST   |
+| ------------- | ----------------------- | ---------------- | ---- |
+| 1             | 10-karatowy, podstawowy | 0,1 sztuki złota | 10   |
+| 2             | 20-karatowy, podstawowy | 0,2 sztuki złota | 15   |
+| 3             | 50-karatowy, podstawowy | 0,5 sztuki złota | 20   |
+
+#### Badanie kamieni złożonych
+
+| Rząd zaklęcia | Kamień szlachetny                | Wkład pracy      | ST   |
+| ------------- | -------------------------------- | ---------------- | ---- |
+| 1             | 10-karatowy, złożony syntetyczny | 0,2 sztuki złota | 12   |
+| 1             | 10-karatowy, złożony naturalny   | 0,3 sztuki złota | 15   |
+| 1             | 10-karatowy *Diament*            | 5 sztuk złota    | 18   |
+| 1             | 10-karatowy *Kamień Zagłady*     | 15 sztuk złota   | 20   |
+| 2             | 20-karatowy, złożony syntetyczny | 0,4 sztuki złota | 17   |
+| 2             | 20-karatowy, złożony naturalny   | 0,6 sztuki złota | 20   |
+| 2             | 20-karatowy *Diament*            | 10 sztuk złota   | 23   |
+| 2             | 20-karatowy *Kamień Zagłady*     | 30 sztuk złota   | 25   |
+| 3             | 50-karatowy, złożony syntetyczny | 1 sztuka złota   | 22   |
+| 3             | 50-karatowy, złożony naturalny   | 2 sztuki złota   | 25   |
+| 3             | 50-karatowy *Diament*            | 35 sztuk złota   | 28   |
+| 3             | 50-karatowy *Kamień Zagłady*     | 100 sztuk złota  | 30   |
+
+#### Zaklinanie z kamieni podstawowych
+
+| Rząd zaklęcia | Kamień szlachetny       | Praca (10-dni)        | Praca (stały efekt)          | ST   |
+| ------------- | ----------------------- | --------------------- | ---------------------------- | ---- |
+| 1             | 10-karatowy, podstawowy | 0,03 - 1,7 szt. złota | 50 - 2 400 sztuk złota       | 10   |
+| 2             | 20-karatowy, podstawowy | 0,14 - 27 sztuk złota | 200 - 39 400 sztuk złota     | 15   |
+| 3             | 50-karatowy, podstawowy | 7 - 1 040 sztuk złota | 9 400 - 1 498 500 szt. złota | 20   |
+
+#### Zaklinanie z kamieni złożonych
+
+| Rząd | Kamień szlachetny                | Praca (10-dni)        | Praca (stały efekt)          | ST   |
+| ---- | -------------------------------- | --------------------- | ---------------------------- | ---- |
+| 1    | 10-karatowy, złożony syntetyczny | 0,03 - 2 sztuki złota | 50 - 2 400 sztuk złota       | 11   |
+| 1    | 10-karatowy, złożony naturalny   | -                     | -                            | 12   |
+| 1    | 10-karatowy *Diament*            | -                     | -                            | 13   |
+| 1    | 10-karatowy *Kamień Zagłady*     | -                     | -                            | 15   |
+| 2    | 20-karatowy, złożony syntetyczny | 0,14 - 27 sztuk złota | 200 - 39 400 sztuk złota     | 16   |
+| 2    | 20-karatowy, złożony naturalny   | -                     | -                            | 17   |
+| 2    | 20-karatowy *Diament*            | -                     | -                            | 18   |
+| 2    | 20-karatowy *Kamień Zagłady*     | -                     | -                            | 20   |
+| 3    | 50-karatowy, złożony syntetyczny | 7 - 1 040 sztuk złota | 9 400 - 1 498 500 szt. złota | 21   |
+| 3    | 50-karatowy, złożony naturalny   | -                     | -                            | 22   |
+| 3    | 50-karatowy *Diament*            | -                     | -                            | 23   |
+| 3    | 50-karatowy *Kamień Zagłady*     | -                     | -                            | 25   |
 
 # Nowe atuty rzemieślnicze
 
