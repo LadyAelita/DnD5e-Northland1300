@@ -154,34 +154,34 @@ Czas utrzymywania się tymczasowego zaklęcia jest **proporcjonalny** do **wkła
 
 Podczas gdy wartość dnia pracy przeciętnego rzemieślnika rośnie liniowo wraz ze wzrostem jego umiejętności, wartość dnia pracy zaklinacza zamiast tego rośnie wykładniczo. Ponadto, zależy ona od modyfikatora z **Czaroznawstwa** zamiast Rzemiosła.
 
-| Modyfikator z Czarnoznawstwa | Wartość pracy [sztuki złota / 10 godzin] |
-| ---------------------------- | ---------------------------------------- |
-| **0 lub ujemny**             | 0                                        |
-| **+1**                       | 1                                        |
-| **+2**                       | 1                                        |
-| **+3**                       | 1                                        |
-| **+4**                       | 2                                        |
-| **+5**                       | 3                                        |
-| **+6**                       | 4                                        |
-| **+7**                       | 6                                        |
-| **+8**                       | 9                                        |
-| **+9**                       | 13                                       |
-| **+10**                      | 19                                       |
-| **+11**                      | 27                                       |
-| **+12**                      | 40                                       |
-| **+13**                      | 60                                       |
-| **+14**                      | 80                                       |
-| **+15**                      | 120                                      |
-| **+16**                      | 170                                      |
-| **+17**                      | 240                                      |
-| **+18**                      | 350                                      |
-| **+19**                      | 500                                      |
-| **+20**                      | 700                                      |
-| **+21**                      | 1100                                     |
-| **+22**                      | 1500                                     |
-| **+23**                      | 2200                                     |
-| **+24**                      | 3100                                     |
-| **+25**                      | 4500                                     |
+| Modyfikator z Czaroznawstwa | Wartość pracy [sztuki złota / 10 godzin] |
+| --------------------------- | ---------------------------------------- |
+| **0 lub ujemny**            | 0                                        |
+| **+1**                      | 1                                        |
+| **+2**                      | 1                                        |
+| **+3**                      | 1                                        |
+| **+4**                      | 2                                        |
+| **+5**                      | 3                                        |
+| **+6**                      | 4                                        |
+| **+7**                      | 6                                        |
+| **+8**                      | 9                                        |
+| **+9**                      | 13                                       |
+| **+10**                     | 19                                       |
+| **+11**                     | 27                                       |
+| **+12**                     | 40                                       |
+| **+13**                     | 60                                       |
+| **+14**                     | 80                                       |
+| **+15**                     | 120                                      |
+| **+16**                     | 170                                      |
+| **+17**                     | 240                                      |
+| **+18**                     | 350                                      |
+| **+19**                     | 500                                      |
+| **+20**                     | 700                                      |
+| **+21**                     | 1100                                     |
+| **+22**                     | 1500                                     |
+| **+23**                     | 2200                                     |
+| **+24**                     | 3100                                     |
+| **+25**                     | 4500                                     |
 
 ### Nieznane zaklęcia
 
@@ -191,9 +191,9 @@ Wymagany wkład pracy dla danych ulepszeń może się znacznie różnić, nawet 
 
 Po zgromadzeniu odpowiednich zasobów, odczytaniu wartości swojego 10-godznniego dnia pracy przy zaklinaniu oraz przedziału pracy wymaganej dla danego zaklęcia, postać rozpoczyna proces, rzucając czar *Nasycenie Przedmiotu* na przedmiot, który ma zostać zaklęty. Tak długo jak postać podtrzymuje koncentrację nad owym czarem, stopniowo wkłada pracę (podobnie jak zwykły rzemieślnik), przybliżając się do ukończenia całego procesu zaklinania.
 
-Za każym razem, gdy postać rzuca *Nasycenie Przedmiotu* w tym celu, niezależnie czy celem rozpoczęcia, czy kontynuacji procesu zaklinania, musi wykonać test **Czarnoznawstwa** o ST odczytanym z tabeli, zależnym od kamienia szlachetnego użytego jako źródło energii.
+Za każym razem, gdy postać rzuca *Nasycenie Przedmiotu* w tym celu, niezależnie czy celem rozpoczęcia, czy kontynuacji procesu zaklinania, musi wykonać test **Czaroznawstwa** o ST odczytanym z tabeli, zależnym od kamienia szlachetnego użytego jako źródło energii.
 
-**Sukces** w teście **Czarnoznawstwa** na początku rzucania *Nasycenia Przedmiotu* oznacza włożenie odpowiedniej dla poświęconego czasu ilości pracy. **Porażka** oznacza brak postępów. **Krytyczna porażka** skutkuje uszkodzeniem wykorzystywanych kamieni, które zajmują dostępne kieszenie w danym przedmiocie, nie nadając mu jednak żadnych specjalnych właściwości, co czyni przedmiot niemożliwym do ponownego zaklęcia, a kamienie pozbawia ich magicznej energii. **Krytyczny sukces** oznacza 5x większy efektywny wkład pracy.
+**Sukces** w teście **Czaroznawstwa** na początku rzucania *Nasycenia Przedmiotu* oznacza włożenie odpowiedniej dla poświęconego czasu ilości pracy. **Porażka** oznacza brak postępów. **Krytyczna porażka** skutkuje uszkodzeniem wykorzystywanych kamieni, które zajmują dostępne kieszenie w danym przedmiocie, nie nadając mu jednak żadnych specjalnych właściwości, co czyni przedmiot niemożliwym do ponownego zaklęcia, a kamienie pozbawia ich magicznej energii. **Krytyczny sukces** oznacza 5x większy efektywny wkład pracy.
 
 Gdy postaci uda się pomyślnie włożyć ilość pracy stanowiącą **minimalną** wymaganą **wartość pracy** z **wcześniej odczytanego przedziału**, postać rzuca **k6** celem wylosowania zaklęcia (MG posiada tabelę dostępnych ulepszeń). Od tego momentu jest w stanie już z większą dokładnością oszacować ile pozostała część procesu jeszcze może potrwać dla tego konkretnego ulepszenia - MG opisuje ową ilość czasu według własnego uznania.
 
