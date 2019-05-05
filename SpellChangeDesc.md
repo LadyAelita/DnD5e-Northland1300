@@ -39,52 +39,6 @@
 | 19d6 | 110 ft/s      |
 | 20d6 | 113 ft/s      |
 
-# Cantrips
-
-* **Guidance**, **Resistance** and **Virtue** can all be cast as reactions now.
-
-# 1st level
-
-+ **Absorb Elements** - Receive resistance for 1 round from one element. Optionally concentrate for up to 2 rounds. If you do so, your next attack (be it melee, ranged, spell, w/e) deals +2d6 of the same damage type. It also provides a flat 5 absorbtion per additional spell slot level
-+ **Armor of Agathys** - renamed to *Armor of the Abyss*
-+ **Arms of Hadar** - renamed to *Arms of Legion*
-+ **Bane** - subtract d6 now instead of d4
-+ **Burning Hands** - cones suck, so instead of looking for tiles that have more than 50% of themselves covered by the cone, let's assume that the cover percentage being higher than 0% is enough for the tile to be affected
-+ **Cause Fear** - no more concentration
-+ **Ceremony**:
-    - Bless Water: Holy water blessed by a cleric of a given deity can be used by any of the said deity's followers to attempt and bless something or someone in a minute long ritual. A cleric will automatically succeed, providing the target with the effect of the Bless spell for a day. A non-cleric will have a 50% + 5*(Wisdom modifier)% chance without knowing the result up until the bonus would come into play. In case an item is targeted, it might receive a random small permanent enchantment. The effects of this don't stack.
-    - Curse Water [NEW]: One can also conjure unholy water in a similar manner. Instead of applying Bless, it will apply Bane, and instead of creating helpful enchanted items, it will create cursed ones.
-    - Coming of Age: Can only be cast on the day of the target's actual coming of age (the age is determined by the cleric's religion, and if it's not, then it's up to the local tradition). Instead of giving the d4 bonus, it increases all of the target's abilities by 1 permanently.
-    - Dedication: The target also gains proficiency in Religion, provided that you have it already as well.
-    - Wedding: They don't get +2 to AC for the next 7 days, but they get +1 to AC permanently instead (the condition remains the same). This bonus is removed when the marriage ends by whatever means.
-+ **Charm Person** - they don't know about having been charmed, unless they succeed on a second Wisdom save at the end of the effect.
-+ **Comprehend Languages** - fuck that shit! It's still level 1, BUT now if you want to achieve the actual previous effect, you have to cast it at level 9 - the lower the spell slot level, the more Google Translator cycles will the message go through to make it more unclear. It will also only last 10 minutes and require concentration now.
-+ **Create or Destroy Water** - the school is Conjuration (Creation) for create and Transmutation for destroy
-+ **Cure Wounds** - you can try to spell attack an undead against their Touch AC, so that they get damaged instead. The dealt damage is technically negative necrotic damage, but it's described as true for the sake of simplicity and in order for it not to be affected by vulnerabilities and immunities. Also added scaling of 1d8 + spellcasting modifier / SL above 1st.
-+ **Detect Evil and Good** - changed to Detect Evil *or* Good. Look Updated-Rules.pdf. It's also a ritual now
-+ **Ensnaring Strike** - no more concentration
-+ **Entangle** - area increased to 30 ft; now applies to all visible creatures of choice in the area
-+ **Expeditious Retreat** - now allows to either do a Dash *or a Disengage* as a bonus action
-+ **False Life** - the base is now 2d6 + your spellcasting mod, rather than 1d6 + 4, but it only lasts a minute now
-+ **Find Familiar** - now it will allow for a broader selection of familiars - including elementals, demons etc. (albeit all of them will still be shite and have 0 CR. I mean, c'mon, what did you expect?). A final list of eligible creatures doesn't exist. A short one with some examples will be provided, but your character can still possibly gain knowledge of other creatures not mentioned on said list. Moreover, you can no longer dismiss your familiar to a "pocket plane". You can however dismiss them back to their original plane, but then you have to resummon them.
-+ **Flow of Magic** - has scaling; the target creature receives a temporary spell slot of one level higher than the level this spell was cast at; the slot can be used within 1 round and then it disappears
-+ **Fog Cloud** - no more concentration
-+ **Healing Word** - removed as is, replaced with a completely different spell of the same name.
-+ **Jump** - added scaling: you can target an additional creature for every SL above 1st; also increased the range to 60 ft
-+ **Protection from Evil and Good:** Welcome to the 5th edition of D||D (Dungeons or Dragons) once again! Renamed to Protection from Evil *or* Good; see Updated-Rules.pdf; Also, added scaling: can target +1 crea/SL above 1st.
-+ **Ray of Sickness:** no longer allows for a save. If you hit, you hit the entire effect. It's also one of those Touch AC spells now and is Xd10 instead of Xd8, so it doesn't suck anymore
-+ **Searing Smite:** now it is merged with the melee attack action. If you hit that attack, *then* you may *optionally* concentrate to keep the fire up. Would have maybe increased the dmg, but it's a Paladin-exclusive, so there is no need to buff those
-+ **Shield:** being a shield, it also now increases the touch AC *and* Dex saves. If you didn't take this spell after this change, immediately commit suicide and create a new character to fix this
-+ **Shield of Faith:** no more concentration; it also increasess the touch AC and Dex saves as well
-+ **Soil Food and Drink:** the opposite of Purify Food and Drink - corrupts food and drink in the target area, rendering it useless and generally bad for one's health
-+ **Tasha's Hideous Laughter:** Renamed to *Hideous Laughter*
-+ **Tenser's Floating Disk:** Renamed to *Floating Disk*
-+ **Thunderous Smite:** no more concentration, merged with attack action
-+ **Thunderwave:** is now a radius rather than a cube
-+ **Witch Bolt:** now is one of the Touch AC spells; the scaling now increases not just the initial, but the reocurring damage as well
-+ **Wrathful Smite:** merged with attack, concentration optional; added scaling: +1d6 dmg/SL above 1st
-+ **Zephyr Strike:** if the enhanced attack + faster movement bonus is utilized immediatly, the spell doesn't require concentration but also doesn't last longer than 1 round
-
 # 2nd level
 
 + **Aganazzar's Scorcher:** renamed to *Blazing Burst*
