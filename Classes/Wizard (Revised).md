@@ -6,7 +6,7 @@
 
 You can copy spells from scrolls and other spellbooks, regardless who wrote them.
 
-Adding a spell from a foreign source (that is a scroll or a spellbook not written by you) takes 4 hours times the spell's level, 1 hour for cantrips. It also requires you to use specially prepared ink. The ink's preparation process **is already included** as part of adding the spell. Your character, however, must be able to prepare the ink.
+Adding a spell from a foreign source (that is a scroll or a spellbook not written by you) takes 2 hours times the spell's level, half an hour for cantrips. It also requires you to use specially prepared ink. The ink's preparation process **is already included** as part of adding the spell. Your character, however, must be able to prepare the ink.
 
 **Remark:** You don't need to add known cantrips to your spellbook, as you can always cast them. However, if it so happens that you come across a written version of a cantrip that is not on the known spell list, you might want to store it for later so that you can learn it - this is done through adding it to the spellbook.
 
