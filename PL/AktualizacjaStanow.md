@@ -117,7 +117,6 @@ Jest to stan **frightened** z D&D 5e.
 ## Uchwycony
 
 * Szybkość uchwyconej istoty przyjmuje wartość 0 i **nie może** **zostać zwiększona** w żaden sposób.
-* **NOWE:** Ataki przeciwko uchwyconej istocie wykonywane są z **przewagą**.
 * Uchwycenie kończy się, gdy chwytająca istota zostanie **obezwładniona** lub przemieszczona efektem poza swój zasięg chwytania.
 
 ## Unieruchomiony
