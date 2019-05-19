@@ -39,45 +39,6 @@
 | 19d6 | 110 ft/s      |
 | 20d6 | 113 ft/s      |
 
-# 2nd level
-
-+ **Aganazzar's Scorcher:** renamed to *Blazing Burst*
-+ **Alter Self:** no more concentration
-+ **Barkskin:** no more concentration
-+ **Branding Smite:** merged with attack, optional concentration
-+ **Calm Emotions:** now also provides the targets with advantage on Composure checks
-+ **Cloud of Daggers:** the cloud can now also make an unlimited number of opportunity attacks per turn, using your spell attack bonus against the target's normal AC. It has a reach of 5 ft. Moreover, you can use your bonus action to move the cloud by 15 ft.
-+ **Darkness:** the caster can see normally through the darkness they have created with this spell; if the overlapping light spell is of level equal to Darkness, both are dispelled; if it's smaller than Darkness, then only that spell is dispelled, not Darkness; added scaling: radius +10 ft/SL above 2nd
-+ **Digital Phantom:** you can alter the personal data assigned to data streams sent/received with a device within the duration. Just to clarify, some examples of usage:
-    - contact somebody who doesn't know your voice through a TSR device and deceive it (basically a phone call, except they will think it's from somebody else),
-    - attempt (yes, this might fail) to send a command to an intelligent construct (so, a robot) so that its system "thinks" it's from its owner,
-    - when connecting to a communication network through any device, you can edit the trace data your device leaves behind, effectively becoming anonymous.
-      Also, added scaling: the duration increases 2,5 times / SL above 2nd. (So the formula is (2,5)^x min, where x = SL - 2).
-+ **Dragon's Breath:** now if you target yourself, you can optionally not concentrate, but then you have to use the effect in the same round the spell was cast
-+ **Dust Devil:** the space doesn't have to be unoccupied now. The creature that's standing on the point of origin is pushed 15 ft in a random direction on failed save, or into an unocuppied space of their choice within 5 ft of the origin on a successful one
-+ **Earthbind:** rather than fallng slowly, the creature rapidly descends at a constant velocity of 50 ft per second, which is 300 ft per round. Given how the range is 300 ft, it will always reach the ground below it by the end of the round (unless some metamagic is utilized). As a result, it takes 4d6 fall damage on impact. The damage has a scaling of +2d6/SL above 2nd, except 8th level gets 17d6, and 9th gets 20d6. The concentration on this spell is optional. If your target still hasn't reached the ground, the concentration will cause it to keep falling. If it's on the ground as a result of the fall, the concentration will cause it to become and remain slowed and grounded [NEW CONDITIONS]. If the ground level below the target is very low and it would out of your sight by the end of the round, you either cannot begin the concentration, or your concentration is broken.
-+ **Enthrall:** Now requires concentration; the targets are now charmed as well. When one of the targets is attacked or receives any damage, the spell ends for that target. The other targets then get another chance at the Wisdom save.
-+ **Find Steed:** now has material components that are consumed; You can now summon an animal that's not on the list if the DM agrees to that creature. Your steed's race can now also be undead or an elemental and its language is based on the race - infernal for demons, celestial for celestials, venefical for fey, the related elemental language for an elemental and black speech for undead. Your steed also no longer gets hit by spells targeted at you by default. However, when your steed drops to 0 hit points, it dies instead of disappearing. Moreover, dismissing and resummoning the stead will not heal it immediately - one has to wait a day before the resummoning for that to happen.
-+ **Healing Spirit:** Now only heals on your (the caster's) turn, including the turn on which it is cast, and it 
-    can only heal once per round. The target of the heal must be someone who occupies the same space as the spirit. If the spirit moves through multiple possible targets' spaces during your turn, you decide which  target, if any, gets healed. Also, the spirit can now target undead to deal damage to them rather than heal. In that case, it attempts a touch attack using your spell attack bonus. Scaling changed to 1d6 / SL above 2nd.
-+ **Healing Word:** Heals for 3d4 + spellcasting modifier and scales 1d4 + spellcasting modifier / SL above 2nd. Has a cast time of reaction and can be used after any character within 30 ft of the caster takes damage. That character is then healed (after they take damage from the attack/spell/effect and any simultaneous effects that accompany that attack/spell/effect, but before the next multiattack/spell cast/special ability).
-+ **Magic Weapon:** no more concentration; you might now also use this spell to permanently enchant a weapon, in which case it consumes a 100gp lapis lazuli gemstone
-+ **Maximilian's Earthen Grasp:** renamed to *Earthen Grasp*; the initial damage is 4d6, but the reocurring damage stays the same; added scaling: +2d6 initial & +1d6 reocurring / 2SL above 2nd.
-+ **Melf's Acid Arrow:** renamed to "Assassin's Acid Arrow"; is now a touch AC based spell; changed scaling: +2d4 to reocurring damage
-+ **Mind Spike:** changed scaling: also increases the max duration by 1h / SL above 2nd
-+ **Mirror Image:** clarification: the illusions cannot be destroyed through AoE spells or targeted with single target spells. They are only ever considered in case of *attack* rolls.
-+ **Nystul's Magic Aura:** renamed to "Deceptive Aura"
-+ **Phantasmal Force:** you can use your bonus action to move the phantasm 30 ft now; added scaling: +1d12 damage/SL above 2nd
-+ **Prayer of Healing:** The new Prayer of Healing is a concentration spell with a 1 min duration and a cast time of bonus action. On the turn that it is cast, the weakest (lowest hp with temp hp included), damaged living friendly target within 60 ft of the caster regains hit points. This effect can be used again on subsequent turns (while the spell lasts) by using a bonus action. Targets that are unconsious/dying are prioritized, with the target in the worst condition receiving the heal. If 2 damaged allies have the same hp and condition (ie conscious, unconsious, dying), the caster decides which ally gets healed. Companions (like animals, familiars, etc), mounts, and summoned creatures are not healed, unless no other targets within range are damaged. Shapeshifted allies are healed, provided that they shapeshifted voluntarily. Characters that are forced to be allies of the caster against their will by means of magic are never healed. If, since the caster's previous turn, an ally acts as an enemy, against their will, to the caster by attacking or using a harmful spell/ability on the caster or his allies or by using beneficial spells/abilities on the enemy of the caster, the caster can choose to not include the offending ally as a possible healing target on that turn.
-+ **Pyrotechnics:** The fireworks variant deals 3d8 fire damage in range on explosion. The smoke variant also causes the targets inside to be dazed [NEW CONDITION].
-+ **Ray of Enfeeblement:** Now deals 2d8 necrotic damage and has a scaling of +1d8 damage/SL above 2nd. It also saps d6 of the target's Strength for the duration, which scales by +1 dice tier (for example d6 -> d8)/2SL above 2nd. If this spell is cast multiple times at the same target, the Strength saps that are a result of this spell don't add up - only the highest one is applied. However, doing so still refreshes the effect's duration and deals damage.
-+ **Rope Trick:** added scaling: +1h of duration/SL above 2nd.
-+ **Shadow Blade:** slightly changed scaling: at 9th level it deals 6d8 damage
-+ **Shatter:** non-organic creatures also take damage in d12s instead of d8s
-+ **Snilloc's Snowball Swarm:** re-themed as "Cold Nova"; now also slows [N.C.] the creatures that failed the save for 1 round and puts out non-magical flames and flames created by fire spells cast at a lower level.
-+ **Spider Climb:** added scaling: +1 target crea/SL above 2nd.
-+ **Spiritual Weapon:** the speed increased to 30 ft
-
 # 3rd level
 
 + **Beacon of Hope:** also gives advantage on Charisma saves
