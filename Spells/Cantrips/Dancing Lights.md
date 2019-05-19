@@ -9,7 +9,7 @@ Element: **Light**
 Casting Time: **1 action**  
 Duration: **Concentration, up to 1 minute**  
 Range: **120 feet**  
-Components: **V, S, M (a bit of phosphorus or wychwood, or a glowworm)**  
+Components: **V, S, F**  
 Ritual: **False**  
 Concentration: **True**  
 
