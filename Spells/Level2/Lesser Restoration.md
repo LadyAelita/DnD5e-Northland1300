@@ -1,6 +1,6 @@
 ## Lesser Restoration
 
-Classes: **Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger, Warlock (Celestial)**  
+Classes: **Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger, Warlock (Eternal Flame)**  
 Level: **2**  
 
 School: **Abjuration**  
