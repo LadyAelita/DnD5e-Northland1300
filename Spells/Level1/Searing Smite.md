@@ -11,7 +11,7 @@ Duration: **1 round / Concentration, up to 1 minute**
 Range: **Self**  
 Components: **V**  
 Ritual: **False**  
-Concentration: **True**  
+Concentration: **Optional**  
 
 ------
 
