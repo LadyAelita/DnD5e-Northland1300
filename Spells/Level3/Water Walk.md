@@ -9,7 +9,7 @@ Element: **Water**
 Casting Time: **1 action**  
 Duration: **1 hour**  
 Range: **30 feet**  
-Components: **V, S, M (a piece of cork)**  
+Components: **V, S, F**  
 Ritual: **True**  
 Concentration: **False**  
 
