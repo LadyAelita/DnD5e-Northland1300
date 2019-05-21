@@ -39,65 +39,6 @@
 | 19d6 | 110 ft/s      |
 | 20d6 | 113 ft/s      |
 
-# 3rd level
-
-+ **Beacon of Hope:** also gives advantage on Charisma saves
-+ **Bestow Curse:** no more concentration; additional curse variant:
-   - the target loses 2d4 Intelligence, Wisdom or Charisma (your choice).
-+ **Blinding Smite:** merged with attack, optional concentration. Clarification: you decide whether to concentrate or not *before* knowing the result of the save.
-+ **Clairvoyance:** minor: you concentrate on the cosmic opal that serves as the material component - you use it as a "screen" or a "speaker" of sorts
-+ **Conjure Animals:** renamed to "Summon Animals"
-+ **Conjure Barrage:** renamed to "Direct Barrage"; now requires you to physically use/throw/shoot X pieces of ammunition or throwing weapon (therefore you need said weapon equipped). The ammunition or weapon doesn't have to be non-magical anymore. As a result, you can pick X targets within the 60ft cone. Each of them will receive 4dY damage of the same type as the weapon's damage, where Y is the weapon's damage die. For example - shooting 3 normal arrows from a longbow will deal 4d8 damage to 3 targets in the spell's area. Basically this spell allows your character to execute an attack that's normally difficult to pull off, let alone within 3-6 seconds, by using magic to direct the projectiles.
-+ **Counterspell:** finalized: Autosuccess vs spells of level equal or lower to counterspell's SL. Against spells of SL higher than the counter SL, let X = the difference between the spell SL and the counter SL, and Y = the target spell's caster's spellcasting modifier. Then you need to succeed on a spellcasting ability check against the DC of 8 + X + Y.
-+ **Dispel Magic:** see Updated-Rules.pdf, except the DC is 8 + X + Y + 1 for every creature or object holding an effect that's not in the center of the area (X and Y just like with Counterspell)
-+ **Elemental Weapon:** now Wizards (and Sorcerers) can have it as well; no more concentration; can be used to enchant a weapon permanently, in which case it consumes a 150gp gem representing the element related to the selected damage type
-+ **Endurion's Cold Arrows:** Just like Flame Arrows, except they deal cold damage.
-+ **Enemies Abound:** no more concentration
-+ **Fear:** no more concentration
-+ **Flame Arrows:** no more concentration, now enchants the entire quiver, which is 20 arrows or bolts; added scaling: +1d6/2 SL above 3rd.
-+ **Gaseous Form:** the target becomes immune to nonmagical slashing, piercing and bludgeoning damage, and resistant to magical -//- damage, but vulnerable to fire and force damage; added scaling: +5 ft flying speed/2 SL above 3rd; +1h of duration/SL above 3rd.
-+ **Glyph of Warding:** material component depending on the element of the stored spell or desired damage type:
-
-| Damage    | Gem type    |
-| --------- | ----------- |
-| fire      | Obsidian    |
-| cold      | Prasiolite  |
-| acid      | Aventurine  |
-| radiant   | Diaspore    |
-| lightning | Chrysoprase |
-| sonic     | Chrysoprase |
-| shadow    | Aventurine  |
-| ethereal  | Emerald     |
-
-+ **Haste:** added scaling: target +1 crea / SL above 3rd
-+ **Haywire:** is an Intelligence save now
-+ **Hunger of Hadar:** renamed to "Legion's Hunger"; you essentially cast Darkness at 3rd level, except it has different params (range 150 ft, duration conc. up to 1min, area of 20 ft radius sphere) and deals 2d6 shadow damage to creatures inside
-+ **Invisibility to Cameras:** renamed to "Invisibility to Seeing Devices". Can now target up to 5 creatures.
-+ **Leomund's Tiny Hut:** renamed to "Cain's Refuge"
-+ **Life Transference:** can now be used to hurt undead, although they get a Charisma saving throw against that, which halves the damage on success. The heal is now triple instead of double the damage, if, after receiving the damage, the caster still has 50% or more of their HP left. The caster cannot benefit from this effect when targeting himself with the heal.
-+ **Lightning Arrow:** now functions simply as a "fireball", just smaller and lightning themed. And involves a ranged attack action. Now has no concentration, so 1 shot = 1 spell slot, and it deals less damage, but has a slightly bigger radius and the targets that fail the save are dazed for 1 r
-+ **Magic Circle:** the component is consumed and depends on the targeted race:
-  - celestials: blood of a humanoid killed within 24 hours, or [(100gp) garnet, black ore or doomstone dust]
-  - elementals: (100gp) peridot dust
-  - fey: (100gp) aventurine or diaspore dust
-  - fiends (demons): holy water or (50gp) beryl dust
-  - undead: holy water or (50gp) moonstone dust
-+ **Major Image:** no more concentration; changed scaling: double the duration / SL above 3rd (so the formula is: 10min * 2^(SL-3) )
-+ **Mass Healing Word:** removed
-+ **Melf's Minute Meteors:** renamed to "Minute Meteors", damage die changed to Xd8
-+ **Phantom Steed:** added scaling: +1h duration / SL above 3rd
-+ **Protection from Energy:** only lasts 10 min, but doesn't require concentration now; now allows to choose any elemental energy; added scaling: +1 target crea / SL above 3rd
-+ **Slow:** the condition applied to the creatures is now known as "slowed"
-+ **Speak with Dead:** renamed to "Speak with the Dead"; now requires concentration
-+ **Spirit Guardians:** the damage type is based on the deity; can also be ethereal now
-+ **Summon Lesser Demons:** no more concentration; you get to choose where to summon the demons from (Hell, Abyss, Void - infernal demons are by default hostile to everything, and void demons are by default neutral towards everything). You might now make an Intimidation check against the infernal demons, or a Persuasion check against the void demons. On a success, the infernal demons will be hostile only against everyone but you and creatures of your choice, and the void demons will be neutral only towards everyone but creatures of your choice. Using garnet dust or having a doomstone also allows you to make sure the demons will not attack you. Having a doomstone gives you advantage on the check as well.
-+ **Thunder Step:** you get to choose whether you want the damage to be dealt around your previous location or around the target point
-+ **Tidal Wave:** fire elementals receive additional 4d8 cold damage
-+ **Tongues:** removed
-+ **Wall of Sand:** the creature is also *slowed* within the wall's area (but the movement speed is still down to a third, not half) and also takes 2d6 bludgeoning damage per turn.
-+ **Wall of Water:** it also deals 2d8 cold damage per turn and requires a successful Con save to pass through it. Fire elementals take 5d8 damage instead and have disadvantage on the save.
-+ **Wind Wall:** renamed to "Wall of Wind"; now it deals Force damage instead of Blunt and pushes the creatures out of its area when appearing, and later requires a Strength save in order to pass through it.
-
 # 4th level
 
 + **Banishment:** Only works on creatures that are from a *different* plane. You can't banish somebody from their home, you're not the goverment. Unless you are, in which case you don't need this spell anyway
