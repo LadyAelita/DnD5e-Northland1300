@@ -19,6 +19,8 @@ Concentration: **True**
 
 This spell transforms a creature with at least 1 hit point that you can see within range into a new form. An unwilling creature must make a Charisma saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
 
+On a successful save, the target is dazed until the end of its next turn.
+
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 
 The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.

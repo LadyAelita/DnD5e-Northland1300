@@ -39,35 +39,6 @@
 | 19d6 | 110 ft/s      |
 | 20d6 | 113 ft/s      |
 
-# 4th level
-
-+ **Banishment:** Only works on creatures that are from a *different* plane. You can't banish somebody from their home, you're not the goverment. Unless you are, in which case you don't need this spell anyway
-+ **Charm Monster:** the creature has to make another Wisdom saving throw in the end, in order to realize it's been charmed
-+ **Compulsion:** no more concentration, although if you try to control more than one creature simultaneously like that, each of them gets advantage on the saves against this spell
-+ **Cone of Cold:** is now level 4 rather than 5
-+ **Conjure Knowbot:** renamed to *Conjure Program*; can now be cast as a ritual; it creates a program that is installed onto a device. It can effectively execute tasks in the system it resides in on your behalf and provide you (over the telepathic link) with the output it receives.
-+ **Conjure Minor Elementals:** renamed to "Summon Minor Elementals"; no more concentration; as a component you can use 25 gp dust of a gem related to the elements of the elementals that you are summoning
-+ **Conjure Woodland Beings:** renamed to "Summon Woodland Beings"; no more concentration
-+ **Control Water:** no more concentration
-+ **Elemental Bane:** no more concentration; clarification: you can bane the same target with respect to multiple elements at the same time - every element will count as a separate effect
-+ **Evard's Black Tentacles:** renamed to "Black Tentacles"
-+ **Fabricate:** whenever fabricating anything, you make a Craftsmanship check to see if you are able to do so
-+ **Find Greater Steed:** same changes as for Find Steed, except of course the mount summoned with this spell has better stats.
-+ **Fire Shield:** renamed to "Energy Shield"
-+ **Guardian of Faith:** the damage now depends on your deity - radiant, ethereal or necrotic
-+ **Guardian of Nature:** transforming into the Great Tree increases your size category by 1 tier (for example: Medium -> Large). It no longer gives you advantage on Dexterity based attacks, but your hit dice increase by 1 tier (for example: d8 -> d10).
-+ **Leomund's Secret Chest:** renamed to "Ethereal Storage"
-+ **Mordekainen's Faithful Hound:** renamed to "Ethereal Guardian"; it can assume a form of various kinds of creatures, the default one being a human-like elemental that wields a sword and deals slashing damage. The warning it gives in that form is just an ominous command to leave. It also no longer disappears when you move far away from it and it will cast a sending spell to you whenever somebody or something tries to pass by it, is killed by it or successfuly passes by (unless they provide the password). Added scaling: it lasts 24h on 5th level, 3 days on 6th level, 7 days on 7th level, a month on 8th level and 6 months on 9th level. Unfortunately, it now also requires a costly material component that is consumed and has a casting time of 10 minutes - it sees you construct a circle with emerald dust.
-+ **Mordekainen's Private Sanctum:** renamed to *Arcane Sanctum*
-+ **Otiluke's Resilient Sphere:** renamed to *Enclosing Sphere*
-+ **Shadow of Moil:** renamed to *Shadows of Demise*; the darkness has the effects of the spell *Darkness*, except at 4th level
-+ **Sickening Radiance:** clarification: yes, the exhaustion levels do stack on top of each other.
-+ **Staggering Smite:** merged with attack; no more concentration
-+ **Stone Shape:** you can also use it to deal 6d12 force damage to a stone construct
-+ **Stoneskin:** no more concentration; gives resistance to *all* physical (slashing, piercing, bludgeoning/blunt) damage, not just non-magical
-+ **Storm Sphere:** initial damage is now 4d8 lightning damage
-+ **Summon Greater Demons:** no more concentration; you can attempt to dismiss the demon at any time - if it succeeds on a Charisma save, it will only go away after 1d6 rounds; using garnet dust or having a doomstone makes sure the demon doesn't attack you; having a doomstone gives the demon disadvantage on Charisma saves against this spell.
-
 # 5th Level
 
 * **Animate Objects:** the stats of the creatures now scale, with +1 AC, attack and damage per SL, and also +1-5 HP depending on the size tier (from Tiny up to Huge); the duration is now 10 min instead of 1 min
