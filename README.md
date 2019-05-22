@@ -10,27 +10,35 @@ The following set of homebrew rules intends to:
 
 ## Files
 
-### AuroraBuilderEN/
+### AuroraBuilderEN/\*.\*
 
 A directory containing custom content that adds N:1300 home rule support to Aurora Builder.
 
-### PL/*.*
+### Classes/\*.\*
+
+A directory containing descriptions of all changes made to the classes and potentially new classes being introduced.
+
+### PL/\*.\*
 
 A directory containing English <-> Polish dictionaries of D&D 5e and N:13 lingo.
 
+### Spells/\*.\*
+
+A directory containing full descriptions of all the spells - old and new, modified or not.
+
 ### Northland1300.pdf
 
-The main system reference document containing some crucial updates regarding mostly classes and class features.
+**(Legacy)** The main system reference document containing some crucial updates regarding mostly classes and class features.
 
-### SpellChangeDesc.md
+### <s>SpellChangeDesc.md</s>
 
-This file contains the basic user-friendly descriptions of advanced changes to the spells.
+<s>This file contains the basic user-friendly descriptions of advanced changes to the spells.</s> This no longer exists, check the **Spells/** directory instead.
 
 ### Spells.docx
 
-This is a table created for faster reference and for documenting trivial changes.
+This is a table created for faster reference and for documenting trivial changes made to the spells.
 
 ### Reference files
 
 The following files just serve as sources that might be referenced in other parts of the project:
-* Updated-Rules.pdf
+* **(Legacy)** Updated-Rules.pdf
