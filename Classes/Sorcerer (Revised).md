@@ -280,7 +280,7 @@ During *Unleash*, you also shed light of your unique color (15/30 ft) and you ha
 
 During *Suppress*, you have expertise in Wisdom saving throws.
 
-## Sorcerous Origin: Dream Walker (1th level)
+## Sorcerous Origin: Dream Walker (Revised)
 
 ### Exceptional
 
