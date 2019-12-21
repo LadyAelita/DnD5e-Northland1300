@@ -326,7 +326,7 @@ Moreover, as part of your *Vivid Dreams* feature, you can recall and revisit ver
 
 ### Dream Walking (14th level)
 
-You gain the ability to cast an improved version of *Dream* at will, without expanding spell slots. This can also be combined with your regular long rest sleep, provided that you aren't using *Vivid Dreams* to get a pleasant dream at the same time. 
+You gain the ability to cast an improved version of *Dream* at will, without expending spell slots. This can also be combined with your regular long rest sleep, provided that you aren't using *Vivid Dreams* to get a pleasant dream at the same time. 
 
 If you cast that spell through this feature, you can switch freely between creatures once every 10 minutes and can also opt not to shape the target's dreams, but instead just observe and watch them unfold.
 
@@ -340,4 +340,4 @@ You become immune to mind affecting effects and can never be surprised. Even if 
 
 You get expertise or proficiency in Perception, depending on if you're already proficient or not, and you always see true within 30 feet of you.
 
-You gain the ability to cast *Astral Projection* without expanding spell slots as part of your long rest sleep. You can't combine it, however, with your *Dream Walking* or *Vivid Dreams* features.
+You gain the ability to cast *Astral Projection* without expending spell slots as part of your long rest sleep. You can't combine it, however, with your *Dream Walking* or *Vivid Dreams* features.
