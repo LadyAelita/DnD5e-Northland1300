@@ -1,5 +1,9 @@
 # Northland 1300 for D&D 5e
 
+## Warning!
+
+This repo is now **OBSOLETE**. Please visit https://unelith.github.io instead.
+
 ## Introduction
 
 > It's shite, just laughably bad.
